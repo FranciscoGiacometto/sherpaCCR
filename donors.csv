@@ -1,0 +1,11 @@
+userId,city,state,isTeacher,zipCode
+002b76bee715e1999eedf85a3f2e5e2e,Atlanta,Georgia,No,303.0
+002e93df0ecd17f46152a4280fb34ad7,Waltham,Massachusetts,No,24.0
+0045f952a8490ef4b568dc947e26e162,New York,New York,No,100.0
+0054e9da99c4cacc5b5facb72c11c831,Zionsville,Indiana,No,460.0
+00882862da4c22c971e40601e89606ce,Cole Camp,Missouri,No,653.0
+00896a18c38db1fffb52bc764ca6e16e,Garden Grove,California,No,928.0
+00fdba8ff4a858cc846eb1e6b4ae9101,Deer Park,New York,No,117.0
+00fe5c7bdca56e70ac48d8cfc178744e,,other,No,
+0115ec8ffe653926285591382d19156f,Truckee,California,No,961.0
+01174101eb139da46d6ecc5e61fbee59,Manhattan,Illinois,No,604.0
