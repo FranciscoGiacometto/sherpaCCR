@@ -1,1 +1,1 @@
-userId,itemId,timestamp,value,interactionId
+userId,movieId,rating
