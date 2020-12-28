@@ -101,6 +101,8 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 100,"""Fargo (1996)""",1997,"""http://us.imdb.com/M/title-exact?Fargo%20(1996)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
 101,"""Heavy Metal (1981)""",1981,"""http://us.imdb.com/M/title-exact?Heavy%20Metal%20(1981)""",0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
 102,"""Aristocats, The (1970)""",1970,"""http://us.imdb.com/M/title-exact?Aristocats,%20The%20(1970)""",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,"""All Dogs Go to Heaven 2 (1996)""",1996,"""http://us.imdb.com/M/title-exact?All%20Dogs%20Go%20to%20Heaven%202%20(1996)""",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+104,"""Theodore Rex (1995)""",1996,"""http://us.imdb.com/M/title-exact?Theodore%20Rex%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 105,"""Sgt. Bilko (1996)""",1996,"""http://us.imdb.com/M/title-exact?Sgt.%20Bilko%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 106,"""Diabolique (1996)""",1996,"""http://us.imdb.com/M/title-exact?Diabolique%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 107,"""Moll Flanders (1996)""",1996,"""http://us.imdb.com/M/title-exact?Moll%20Flanders%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -310,6 +312,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 311,"""Wings of the Dove, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Wings+of+the+Dove%2C+The+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
 312,"""Midnight in the Garden of Good and Evil (1997)""",1997,"""http://us.imdb.com/M/title-exact?Midnight+in+the+Garden+of+Good+and+Evil+(1997)""",0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0
 313,"""Titanic (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-120338""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+314,"""3 Ninjas: High Noon At Mega Mountain (1998)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-118539""",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 315,"""Apt Pupil (1998)""",1998,"""http://us.imdb.com/Title?Apt+Pupil+(1998)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 316,"""As Good As It Gets (1997)""",1997,"""http://us.imdb.com/Title?As+Good+As+It+Gets+(1997)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 317,"""In the Name of the Father (1993)""",1993,"""http://us.imdb.com/M/title-exact?In%20the%20Name%20of%20the%20Father%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -419,6 +422,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 421,"""William Shakespeare's Romeo and Juliet (1996)""",1996,"""http://us.imdb.com/Title?Romeo+%2B+Juliet+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 422,"""Aladdin and the King of Thieves (1996)""",1996,"""http://us.imdb.com/M/title-exact?Aladdin%20and%20the%20King%20of%20Thieves%20(1996)%20(V)""",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 423,"""E.T. the Extra-Terrestrial (1982)""",1982,"""http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29""",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+424,"""Children of the Corn: The Gathering (1996)""",1996,"""http://us.imdb.com/M/title-exact?Children%20of%20the%20Corn%3A%20The%20Gathering%20%281996%29""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 425,"""Bob Roberts (1992)""",1992,"""http://us.imdb.com/M/title-exact?Bob%20Roberts%20(1992)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 426,"""Transformers: The Movie, The (1986)""",1986,"""http://us.imdb.com/M/title-exact?Transformers:%20The%20Movie,%20The%20(1986)""",0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0
 427,"""To Kill a Mockingbird (1962)""",1962,"""http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -431,8 +435,12 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 434,"""Forbidden Planet (1956)""",1956,"""http://us.imdb.com/M/title-exact?Forbidden%20Planet%20(1956)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 435,"""Butch Cassidy and the Sundance Kid (1969)""",1969,"""http://us.imdb.com/M/title-exact?Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969)""",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 436,"""American Werewolf in London, An (1981)""",1981,"""http://us.imdb.com/M/title-exact?American%20Werewolf%20in%20London,%20An%20(1981)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+437,"""Amityville 1992: It's About Time (1992)""",1992,"""http://us.imdb.com/M/title-exact?Amityville%201992:%20It's%20About%20Time%20(1992)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+438,"""Amityville 3-D (1983)""",1983,"""http://us.imdb.com/M/title-exact?Amityville%203-D%20(1983)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+439,"""Amityville: A New Generation (1993)""",1993,"""http://us.imdb.com/M/title-exact?Amityville:%20A%20New%20Generation%20(1993)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 440,"""Amityville II: The Possession (1982)""",1982,"""http://us.imdb.com/M/title-exact?Amityville%20II:%20The%20Possession%20(1982)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 441,"""Amityville Horror, The (1979)""",1979,"""http://us.imdb.com/M/title-exact?Amityville%20Horror,%20The%20(1979)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+442,"""Amityville Curse, The (1990)""",1990,"""http://us.imdb.com/M/title-exact?Amityville%20Curse,%20The%20(1990)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 443,"""Birds, The (1963)""",1963,"""http://us.imdb.com/M/title-exact?Birds,%20The%20(1963)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 444,"""Blob, The (1958)""",1958,"""http://us.imdb.com/M/title-exact?Blob,%20The%20(1958)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
 445,"""Body Snatcher, The (1945)""",1945,"""http://us.imdb.com/M/title-exact?Body%20Snatcher,%20The%20(1945)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -535,6 +543,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 542,"""Pocahontas (1995)""",1995,"""http://us.imdb.com/M/title-exact?Pocahontas%20(1995)""",0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
 543,"""Misérables, Les (1995)""",1995,"""http://us.imdb.com/M/title-exact?Mis%E9rables%2C%20Les%20%281995%29""",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
 544,"""Things to Do in Denver when You're Dead (1995)""",1996,"""http://us.imdb.com/M/title-exact?Things%20to%20Do%20in%20Denver%20when%20You're%20Dead%20(1995)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+545,"""Vampire in Brooklyn (1995)""",1995,"""http://us.imdb.com/M/title-exact?Vampire%20in%20Brooklyn%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 546,"""Broken Arrow (1996)""",1996,"""http://us.imdb.com/M/title-exact?Broken%20Arrow%20(1996)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 547,"""Young Poisoner's Handbook, The (1995)""",1996,"""http://us.imdb.com/M/title-exact?Young%20Poisoner's%20Handbook,%20The%20(1995)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 548,"""NeverEnding Story III, The (1994)""",1996,"""http://us.imdb.com/M/title-exact?NeverEnding%20Story%20III,%20The%20(1994)""",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -583,9 +592,12 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 591,"""Primal Fear (1996)""",1996,"""http://us.imdb.com/M/title-exact?Primal%20Fear%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 592,"""True Crime (1995)""",1995,"""http://us.imdb.com/M/title-exact?True%20Crime%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 593,"""Stalingrad (1993)""",1993,"""http://us.imdb.com/M/title-exact?Stalingrad%20(1993)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+594,"""Heavy (1995)""",1996,"""http://us.imdb.com/M/title-exact?Heavy%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 595,"""Fan, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Fan,%20The%20(1996)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 596,"""Hunchback of Notre Dame, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Hunchback%20of%20Notre%20Dame,%20The%20(1996)""",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 597,"""Eraser (1996)""",1996,"""http://us.imdb.com/M/title-exact?Eraser%20(1996)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+598,"""Big Squeeze, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Big%20Squeeze,%20The%20(1996)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+599,"""Police Story 4: Project S (Chao ji ji hua) (1993)""",1996,"""http://us.imdb.com/M/title-exact?Project%20S%20(1993)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 600,"""Daniel Defoe's Robinson Crusoe (1996)""",1996,"""http://us.imdb.com/M/title-exact?Robinson%20Crusoe%20(1996)""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 601,"""For Whom the Bell Tolls (1943)""",1943,"""http://us.imdb.com/M/title-exact?For%20Whom%20the%20Bell%20Tolls%20(1943)""",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 602,"""American in Paris, An (1951)""",1951,"""http://us.imdb.com/M/title-exact?American%20in%20Paris,%20An%20(1951)""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
@@ -663,6 +675,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 674,"""Cat People (1982)""",1982,"""http://us.imdb.com/M/title-exact?Cat%20People%20(1982)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 675,"""Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)""",1922,"""http://us.imdb.com/M/title-exact?Nosferatu,%20eine%20Symphonie%20des%20Grauens%20(1922)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 676,"""Crucible, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Crucible,%20The%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+677,"""Fire on the Mountain (1996)""",1997,"""http://us.imdb.com/M/title-exact?Fire%20on%20the%20Mountain%20(1996)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 678,"""Volcano (1997)""",1997,"""http://us.imdb.com/M/title-exact?Volcano%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 679,"""Conan the Barbarian (1981)""",1981,"""http://us.imdb.com/M/title-exact?Conan+the+Barbarian+(1981)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 680,"""Kull the Conqueror (1997)""",1997,"""http://us.imdb.com/M/title-exact?Kull+the+Conqueror+(1997)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -762,15 +775,18 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 774,"""Prophecy, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Prophecy,%20The%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 775,"""Something to Talk About (1995)""",1995,"""http://us.imdb.com/M/title-exact?Something%20to%20Talk%20About%20(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
 776,"""Three Wishes (1995)""",1995,"""http://us.imdb.com/M/title-exact?Three%20Wishes%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+777,"""Castle Freak (1995)""",1995,"""http://us.imdb.com/M/title-exact?Castle%20Freak%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 778,"""Don Juan DeMarco (1995)""",1995,"""http://us.imdb.com/M/title-exact?Don%20Juan%20DeMarco%20and%20the%20Centerfold%20(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
 779,"""Drop Zone (1994)""",1994,"""http://us.imdb.com/M/title-exact?Drop%20Zone%20(1994)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 780,"""Dumb & Dumber (1994)""",1994,"""http://us.imdb.com/M/title-exact?Dumb%20&%20Dumber%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 781,"""French Kiss (1995)""",1995,"""http://us.imdb.com/M/title-exact?French%20Kiss%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 782,"""Little Odessa (1994)""",1994,"""http://us.imdb.com/M/title-exact?Little%20Odessa%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 783,"""Milk Money (1994)""",1994,"""http://us.imdb.com/M/title-exact?Milk%20Money%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+784,"""Beyond Bedlam (1993)""",1993,"""http://us.imdb.com/Title?Beyond+Bedlam+(1993)""",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
 785,"""Only You (1994)""",1994,"""http://us.imdb.com/M/title-exact?Only%20You%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 786,"""Perez Family, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Perez%20Family,%20The%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 787,"""Roommates (1995)""",1995,"""http://us.imdb.com/M/title-exact?Roommates%20(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+788,"""Relative Fear (1994)""",1994,"""http://us.imdb.com/M/title-exact?Relative%20Fear%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 789,"""Swimming with Sharks (1995)""",1995,"""http://us.imdb.com/M/title-exact?Swimming%20with%20Sharks%20(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 790,"""Tommy Boy (1995)""",1995,"""http://us.imdb.com/M/title-exact?Tommy%20Boy%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 791,"""Baby-Sitters Club, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Baby-Sitters%20Club,%20The%20(1995)""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -785,6 +801,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 800,"""In the Mouth of Madness (1995)""",1995,"""http://us.imdb.com/M/title-exact?In%20the%20Mouth%20of%20Madness%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 801,"""Air Up There, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Air%20Up%20There,%20The%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 802,"""Hard Target (1993)""",1993,"""http://us.imdb.com/M/title-exact?Hard%20Target%20(1993)""",0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+803,"""Heaven & Earth (1993)""",1993,"""http://us.imdb.com/M/title-exact?Heaven%20&%20Earth%20(1993)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
 804,"""Jimmy Hollywood (1994)""",1994,"""http://us.imdb.com/M/title-exact?Jimmy%20Hollywood%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 805,"""Manhattan Murder Mystery (1993)""",1993,"""http://us.imdb.com/M/title-exact?Manhattan%20Murder%20Mystery%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 806,"""Menace II Society (1993)""",1993,"""http://us.imdb.com/M/title-exact?Menace%20II%20Society%20(1993)""",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
@@ -811,6 +828,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 827,"""Daylight (1996)""",1996,"""http://us.imdb.com/M/title-exact?Daylight%20(1996)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 828,"""Alaska (1996)""",1996,"""http://us.imdb.com/M/title-exact?Alaska%20(1996)""",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 829,"""Fled (1996)""",1996,"""http://us.imdb.com/M/title-exact?Fled%20(1996)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+830,"""Power 98 (1995)""",1996,"""http://us.imdb.com/M/title-exact?Power%2098%20(1995)""",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 831,"""Escape from L.A. (1996)""",1996,"""http://us.imdb.com/M/title-exact?Escape%20from%20L.A.%20(1996)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 832,"""Bogus (1996)""",1996,"""http://us.imdb.com/M/title-exact?Bogus%20(1996)""",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
 833,"""Bulletproof (1996)""",1996,"""http://us.imdb.com/M/title-exact?Bulletproof%20(1996)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -832,12 +850,16 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 849,"""Days of Thunder (1990)""",1990,"""http://us.imdb.com/M/title-exact?Days%20of%20Thunder%20(1990)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 850,"""Perfect Candidate, A (1996)""",1996,"""http://us.imdb.com/M/title-exact?Perfect%20Candidate,%20A%20(1996)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 851,"""Two or Three Things I Know About Her (1966)""",1966,"""http://us.imdb.com/M/title-exact?Deux%20ou%20trois%20choses%20que%20je%20sais%20d'elle%20(1966)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+852,"""Bloody Child, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Bloody%20Child%2C%20The%20%281996%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 853,"""Braindead (1992)""",1992,"""http://us.imdb.com/M/title-exact?Braindead%20(1992)""",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
 854,"""Bad Taste (1987)""",1987,"""http://us.imdb.com/M/title-exact?Bad%20Taste%20(1987)""",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
 855,"""Diva (1981)""",1981,"""http://us.imdb.com/M/title-exact?Diva%20(1981)""",0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
 856,"""Night on Earth (1991)""",1991,"""http://us.imdb.com/M/title-exact?Night%20on%20Earth%20(1991)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+857,"""Paris Was a Woman (1995)""",1996,"""http://us.imdb.com/M/title-exact?Paris%20Was%20a%20Woman%20(1995)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+858,"""Amityville: Dollhouse (1996)""",1996,"""http://us.imdb.com/M/title-exact?Amityville:%20Dollhouse%20(1996)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 859,"""April Fool's Day (1986)""",1986,"""http://us.imdb.com/M/title-exact?April%20Fool's%20Day%20(1986)""",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
 860,"""Believers, The (1987)""",1987,"""http://us.imdb.com/M/title-exact?Believers,%20The%20(1987)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+861,"""Nosferatu a Venezia (1986)""",1986,"""http://us.imdb.com/M/title-exact?Nosferatu%20a%20Venezia%20(1986)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 862,"""Jingle All the Way (1996)""",1996,"""http://us.imdb.com/M/title-exact?Jingle%20All%20the%20Way%20(1996)""",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 863,"""Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)""",1996,"""http://us.imdb.com/M/title-exact?Giardino%20dei%20Finzi-Contini,%20Il%20(1970)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 864,"""My Fellow Americans (1996)""",1996,"""http://us.imdb.com/M/title-exact?My%20Fellow%20Americans%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -873,6 +895,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 894,"""Home Alone 3 (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119303""",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 895,"""Scream 2 (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-120082""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 896,"""Sweet Hereafter, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Sweet+Hereafter%2C+The+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+897,"""Time Tracers (1995)""",1995,"""http://us.imdb.com/M/title-exact?imdb-title-128755""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 898,"""Postman, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119925""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 899,"""Winter Guest, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-120521""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 900,"""Kundun (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119485""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -882,8 +905,11 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 904,"""Ma vie en rose (My Life in Pink) (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119590""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 905,"""Great Expectations (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-119223""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 906,"""Oscar & Lucinda (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119843""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+907,"""Vermin (1998)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-120881""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 908,"""Half Baked (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-120693""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 909,"""Dangerous Beauty (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-118892""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+910,"""Nil By Mouth (1997)""",1998,"""http://us.imdb.com/Title?Nil+By+Mouth+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+911,"""Twilight (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-119594""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 912,"""U.S. Marshalls (1998)""",1998,"""http://us.imdb.com/Title?U.S.+Marshals+(1998)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 913,"""Love and Death on Long Island (1997)""",1998,"""http://us.imdb.com/Title?Love+and+Death+on+Long+Island+(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 914,"""Wild Things (1998)""",1998,"""http://us.imdb.com/Title?Wild+Things+(1998)""",0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
@@ -929,6 +955,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 954,"""Unzipped (1995)""",1995,"""http://us.imdb.com/M/title-exact?Unzipped%20(1995)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 955,"""Before Sunrise (1995)""",1995,"""http://us.imdb.com/M/title-exact?Before%20Sunrise%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 956,"""Nobody's Fool (1994)""",1994,"""http://us.imdb.com/M/title-exact?Nobody's%20Fool%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+957,"""Pushing Hands (1992)""",1992,"""http://us.imdb.com/M/title-exact?Tui%20Shou%20(1992)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 958,"""To Live (Huozhe) (1994)""",1994,"""http://us.imdb.com/M/title-exact?Huozhe%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 959,"""Dazed and Confused (1993)""",1993,"""http://us.imdb.com/M/title-exact?Dazed%20and%20Confused%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 960,"""Naked (1993)""",1993,"""http://us.imdb.com/M/title-exact?Naked%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -952,11 +979,13 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 978,"""Heaven's Prisoners (1996)""",1996,"""http://us.imdb.com/M/title-exact?Heaven's%20Prisoners%20(1996)""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 979,"""Trigger Effect, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Trigger%20Effect,%20The%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 980,"""Mother Night (1996)""",1996,"""http://us.imdb.com/M/title-exact?Mother%20Night%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+981,"""Dangerous Ground (1997)""",1996,"""http://us.imdb.com/M/title-exact?Dangerous%20Ground%20(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 982,"""Maximum Risk (1996)""",1996,"""http://us.imdb.com/M/title-exact?Maximum%20Risk%20(1996)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 983,"""Rich Man's Wife, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Rich%20Man's%20Wife,%20The%20(1996)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 984,"""Shadow Conspiracy (1997)""",1997,"""http://us.imdb.com/M/title-exact?Shadow%20Conspiracy%20(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 985,"""Blood & Wine (1997)""",1996,"""http://us.imdb.com/Title?Blood+%26+Wine+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 986,"""Turbulence (1997)""",1997,"""http://us.imdb.com/M/title-exact?Turbulence%20(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+987,"""Underworld (1997)""",1997,"""http://us.imdb.com/M/title-exact?Underworld%20(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 988,"""Beautician and the Beast, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Beautician%20and%20the%20Beast,%20The%20(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 989,"""Cats Don't Dance (1997)""",1997,"""http://us.imdb.com/M/title-exact?Cats%20Don%27t%20Dance%20(1997)""",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 990,"""Anna Karenina (1997)""",1997,"""http://us.imdb.com/M/title-exact?Anna%20Karenina%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
@@ -1045,11 +1074,14 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1073,"""Shallow Grave (1994)""",1994,"""http://us.imdb.com/Title?Shallow+Grave+(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1074,"""Reality Bites (1994)""",1994,"""http://us.imdb.com/M/title-exact?Reality%20Bites%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1075,"""Man of No Importance, A (1994)""",1994,"""http://us.imdb.com/M/title-exact?Man%20of%20No%20Importance,%20A%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1076,"""Pagemaster, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Pagemaster,%20The%20(1994)""",0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 1077,"""Love and a .45 (1994)""",1994,"""http://us.imdb.com/M/title-exact?Love%20and%20a%20.45%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1078,"""Oliver & Company (1988)""",1988,"""http://us.imdb.com/M/title-exact?Oliver%20&%20Company%20(1988)""",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1079,"""Joe's Apartment (1996)""",1996,"""http://us.imdb.com/M/title-exact?Joe's%20Apartment%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
 1080,"""Celestial Clockwork (1994)""",1996,"""http://us.imdb.com/Title?Cort%E1zar+(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1081,"""Curdled (1996)""",1996,"""http://us.imdb.com/M/title-exact?Curdled%20(1996)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1082,"""Female Perversions (1996)""",1997,"""http://us.imdb.com/M/title-exact?Female%20Perversions%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1083,"""Albino Alligator (1996)""",1997,"""http://us.imdb.com/M/title-exact?Albino%20Alligator%20(1996)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 1084,"""Anne Frank Remembered (1995)""",1996,"""http://us.imdb.com/M/title-exact?Anne%20Frank%20Remembered%20(1995)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 1085,"""Carried Away (1996)""",1996,"""http://us.imdb.com/M/title-exact?Carried%20Away%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1086,"""It's My Party (1995)""",1996,"""http://us.imdb.com/M/title-exact?It's%20My%20Party%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1058,9 +1090,11 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1089,"""Speed 2: Cruise Control (1997)""",1997,"""http://us.imdb.com/M/title-exact?Speed%202%3A%20Cruise%20Control%20%281997%29""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
 1090,"""Sliver (1993)""",1993,"""http://us.imdb.com/M/title-exact?Sliver%20(1993)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1091,"""Pete's Dragon (1977)""",1977,"""http://us.imdb.com/M/title-exact?Pete's%20Dragon%20(1977)""",0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1092,"""Dear God (1996)""",1996,"""http://us.imdb.com/M/title-exact?Dear%20God%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1093,"""Live Nude Girls (1995)""",1996,"""http://us.imdb.com/M/title-exact?Live%20Nude%20Girls%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1094,"""Thin Line Between Love and Hate, A (1996)""",1996,"""http://us.imdb.com/M/title-exact?Thin%20Line%20Between%20Love%20and%20Hate,%20A%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1095,"""High School High (1996)""",1996,"""http://us.imdb.com/M/title-exact?High%20School%20High%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1096,"""Commandments (1997)""",1997,"""http://us.imdb.com/Title?Commandments+(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1097,"""Hate (Haine, La) (1995)""",1996,"""http://us.imdb.com/M/title-exact?Haine,%20La%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1098,"""Flirting With Disaster (1996)""",1996,"""http://us.imdb.com/M/title-exact?Flirting%20With%20Disaster%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1099,"""Red Firecracker, Green Firecracker (1994)""",1994,"""http://us.imdb.com/M/title-exact?Pao%20Da%20Shuang%20Deng%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1110,20 +1144,26 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1143,"""Hard Eight (1996)""",1997,"""http://us.imdb.com/Title?Hard+Eight+(1996)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 1144,"""Quiet Room, The (1996)""",1997,"""http://us.imdb.com/M/title-exact?Quiet%20Room%2C%20The%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1145,"""Blue Chips (1994)""",1994,"""http://us.imdb.com/M/title-exact?Blue%20Chips%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1146,"""Calendar Girl (1993)""",1993,"""http://us.imdb.com/M/title-exact?Calendar%20Girl%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1147,"""My Family (1995)""",1995,"""http://us.imdb.com/M/title-exact?My%20Family%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1148,"""Tom & Viv (1994)""",1994,"""http://us.imdb.com/M/title-exact?Tom%20&%20Viv%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1149,"""Walkabout (1971)""",1971,"""http://us.imdb.com/M/title-exact?Walkabout%20(1971)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1150,"""Last Dance (1996)""",1996,"""http://us.imdb.com/M/title-exact?Last%20Dance%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1151,"""Original Gangstas (1996)""",1996,"""http://us.imdb.com/M/title-exact?Original%20Gangstas%20(1996)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 1152,"""In Love and War (1996)""",1997,"""http://us.imdb.com/M/title-exact?In%20Love%20and%20War%20(1996)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
 1153,"""Backbeat (1993)""",1993,"""http://us.imdb.com/M/title-exact?Backbeat%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
 1154,"""Alphaville (1965)""",1965,"""http://us.imdb.com/M/title-exact?Alphaville%20(1965)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 1155,"""Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)""",1996,"""http://us.imdb.com/M/title-exact?Rendez-vous%20de%20Paris,%20Les%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1156,"""Cyclo (1995)""",1996,"""http://us.imdb.com/M/title-exact?Cyclo%20(1995)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 1157,"""Relic, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Relic,%20The%20(1997)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 1158,"""Fille seule, La (A Single Girl) (1995)""",1996,"""http://us.imdb.com/M/title-exact?Fille%20seule,%20La%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1159,"""Stalker (1979)""",1979,"""http://us.imdb.com/M/title-exact?Stalker%20(1979)""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
 1160,"""Love! Valour! Compassion! (1997)""",1997,"""http://us.imdb.com/Title?Love%21+Valour%21+Compassion%21+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1161,"""Palookaville (1996)""",1996,"""http://us.imdb.com/M/title-exact?Palookaville%20(1996)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1162,"""Phat Beach (1996)""",1996,"""http://us.imdb.com/M/title-exact?Phat%20Beach%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1163,"""Portrait of a Lady, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Portrait%20of%20a%20Lady%2C%20The%20%281996%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1164,"""Zeus and Roxanne (1997)""",1997,"""http://us.imdb.com/M/title-exact?Zeus%20and%20Roxanne%20(1997)""",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1165,"""Big Bully (1996)""",1996,"""http://us.imdb.com/M/title-exact?Big%20Bully%20(1996)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1166,"""Love & Human Remains (1993)""",1993,"""http://us.imdb.com/M/title-exact?Love%20&%20Human%20Remains%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1167,"""Sum of Us, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Sum%20of%20Us,%20The%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1168,"""Little Buddha (1993)""",1993,"""http://us.imdb.com/M/title-exact?Little%20Buddha%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1140,6 +1180,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1179,"""Man of the House (1995)""",1995,"""http://us.imdb.com/M/title-exact?Man%20of%20the%20House%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1180,"""I Love Trouble (1994)""",1994,"""http://us.imdb.com/M/title-exact?I%20Love%20Trouble%20(1994)""",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1181,"""Low Down Dirty Shame, A (1994)""",1994,"""http://us.imdb.com/M/title-exact?Low%20Down%20Dirty%20Shame,%20A%20(1994)""",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1182,"""Cops and Robbersons (1994)""",1994,"""http://us.imdb.com/M/title-exact?Cops%20and%20Robbersons%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1183,"""Cowboy Way, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Cowboy%20Way,%20The%20(1994)""",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1184,"""Endless Summer 2, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Endless%20Summer%202,%20The%20(1994)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 1185,"""In the Army Now (1994)""",1994,"""http://us.imdb.com/M/title-exact?In%20the%20Army%20Now%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
@@ -1170,6 +1211,7 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1210,"""Virtuosity (1995)""",1995,"""http://us.imdb.com/M/title-exact?Virtuosity%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 1211,"""Blue Sky (1994)""",1994,"""http://us.imdb.com/M/title-exact?Blue%20Sky%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1212,"""Flesh and Bone (1993)""",1993,"""http://us.imdb.com/M/title-exact?Flesh%20and%20Bone%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+1213,"""Guilty as Sin (1993)""",1993,"""http://us.imdb.com/M/title-exact?Guilty%20as%20Sin%20(1993)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
 1214,"""In the Realm of the Senses (Ai no corrida) (1976)""",1976,"""http://us.imdb.com/M/title-exact?Ai%20no%20Corrida%20(1976)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1215,"""Barb Wire (1996)""",1996,"""http://us.imdb.com/M/title-exact?Barb%20Wire%20(1996)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 1216,"""Kissed (1996)""",1997,"""http://us.imdb.com/M/title-exact?Kissed%20%281996%29""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
@@ -1186,11 +1228,13 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1227,"""Awfully Big Adventure, An (1995)""",1995,"""http://us.imdb.com/M/title-exact?Awfully%20Big%20Adventure,%20An%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1228,"""Under Siege 2: Dark Territory (1995)""",1995,"""http://us.imdb.com/M/title-exact?Under%20Siege%202:%20Dark%20Territory%20(1995)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1229,"""Poison Ivy II (1995)""",1995,"""http://us.imdb.com/M/title-exact?Poison%20Ivy%20II%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1230,"""Ready to Wear (Pret-A-Porter) (1994)""",1994,"""http://us.imdb.com/Title?Pr%EAt-%E0-Porter+(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1231,"""Marked for Death (1990)""",1990,"""http://us.imdb.com/M/title-exact?Marked%20for%20Death%20(1990)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1232,"""Madonna: Truth or Dare (1991)""",1991,"""http://us.imdb.com/M/title-exact?Madonna:%20Truth%20or%20Dare%20(1991)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 1233,"""Nénette et Boni (1996)""",1996,"""http://us.imdb.com/Title?N%E9nette+et+Boni+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1234,"""Chairman of the Board (1998)""",1998,"""http://us.imdb.com/Title?Chairman+of+the+Board+(1998)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1235,"""Big Bang Theory, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?imdb-title-109266""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1236,"""Other Voices, Other Rooms (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119845""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1237,"""Twisted (1996)""",1996,"""http://us.imdb.com/M/title-exact?imdb-title-117994""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1238,"""Full Speed (1996)""",1996,"""http://us.imdb.com/M/title-exact?imdb-title-118230""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1239,"""Cutthroat Island (1995)""",1995,"""http://us.imdb.com/M/title-exact?Cutthroat%20Island%20(1995)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
@@ -1200,13 +1244,20 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1243,"""Night Flier (1997)""",1998,"""http://us.imdb.com/M/title-exact?Night+Flier+(1997)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 1244,"""Metro (1997)""",1997,"""http://us.imdb.com/M/title-exact?Metro%20(1997)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1245,"""Gridlock'd (1997)""",1997,"""http://us.imdb.com/M/title-exact?Gridlock'd%20(1997)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1246,"""Bushwhacked (1995)""",1995,"""http://us.imdb.com/Title?Bushwhacked+(1995/I)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1247,"""Bad Girls (1994)""",1994,"""http://us.imdb.com/Title?Bad+Girls+(1994/I)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 1248,"""Blink (1994)""",1994,"""http://us.imdb.com/M/title-exact?Blink%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1249,"""For Love or Money (1993)""",1993,"""http://us.imdb.com/M/title-exact?For%20Love%20or%20Money%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1250,"""Best of the Best 3: No Turning Back (1995)""",1995,"""http://us.imdb.com/M/title-exact?Best%20of%20the%20Best%203:%20No%20Turning%20Back%20(1995)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1251,"""A Chef in Love (1996)""",1997,"""http://us.imdb.com/M/title-exact?Mille%20et%20une%20recettes%20du%20cuisinier%20amoureux%2C%20Les%20%281996%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1252,"""Contempt (Mépris, Le) (1963)""",1997,"""http://us.imdb.com/M/title-exact?M%E9pris%2C+Le+(1963)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1253,"""Tie That Binds, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Tie%20That%20Binds,%20The%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1254,"""Gone Fishin' (1997)""",1997,"""http://us.imdb.com/M/title-exact?Gone%20Fishin'%20(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1255,"""Broken English (1996)""",1997,"""http://us.imdb.com/M/title-exact?Broken%20English%20%281996%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1256,"""Designated Mourner, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Designated%20Mourner%2C%20The%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1257,"""Designated Mourner, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Designated%20Mourner%2C%20The%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1258,"""Trial and Error (1997)""",1997,"""http://us.imdb.com/M/title-exact?Trial%20and%20Error%20%281997%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1259,"""Pie in the Sky (1995)""",1996,"""http://us.imdb.com/M/title-exact?Pie%20in%20the%20Sky%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 1260,"""Total Eclipse (1995)""",1995,"""http://us.imdb.com/M/title-exact?Total%20Eclipse%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1261,"""Run of the Country, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Run%20of%20the%20Country,%20The%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1262,"""Walking and Talking (1996)""",1996,"""http://us.imdb.com/M/title-exact?Walking%20and%20Talking%20(1996)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
@@ -1217,8 +1268,11 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1267,"""Clockers (1995)""",1995,"""http://us.imdb.com/M/title-exact?Clockers%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1268,"""Bitter Moon (1992)""",1992,"""http://us.imdb.com/M/title-exact?Lunes%20de%20fiel%20(1992)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1269,"""Love in the Afternoon (1957)""",1957,"""http://us.imdb.com/M/title-exact?Love%20in%20the%20Afternoon%20(1957)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1270,"""Life with Mikey (1993)""",1993,"""http://us.imdb.com/M/title-exact?Life%20with%20Mikey%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1271,"""North (1994)""",1994,"""http://us.imdb.com/M/title-exact?North%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1272,"""Talking About Sex (1994)""",1994,"""http://us.imdb.com/M/title-exact?Talking%20About%20Sex%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1273,"""Color of Night (1994)""",1994,"""http://us.imdb.com/M/title-exact?Color%20of%20Night%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1274,"""Robocop 3 (1993)""",1993,"""http://us.imdb.com/M/title-exact?Robocop%203%20(1993)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 1275,"""Killer (Bulletproof Heart) (1994)""",1994,"""http://us.imdb.com/M/title-exact?Killer%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1276,"""Sunset Park (1996)""",1996,"""http://us.imdb.com/M/title-exact?Sunset%20Park%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1277,"""Set It Off (1996)""",1996,"""http://us.imdb.com/M/title-exact?Set%20It%20Off%20(1996)""",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1231,9 +1285,12 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1284,"""Before and After (1996)""",1996,"""http://us.imdb.com/M/title-exact?Before%20and%20After%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
 1285,"""Princess Caraboo (1994)""",1994,"""http://us.imdb.com/M/title-exact?Princess%20Caraboo%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1286,"""Shall We Dance? (1937)""",1937,"""http://us.imdb.com/M/title-exact?Shall%20We%20Dance?%20(1937)""",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+1287,"""Ed (1996)""",1996,"""http://us.imdb.com/M/title-exact?Ed%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1288,"""Denise Calls Up (1995)""",1996,"""http://us.imdb.com/M/title-exact?Denise%20Calls%20Up%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1289,"""Jack and Sarah (1995)""",1996,"""http://us.imdb.com/M/title-exact?Jack%20and%20Sarah%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1290,"""Country Life (1994)""",1994,"""http://us.imdb.com/M/title-exact?Country%20Life%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1291,"""Celtic Pride (1996)""",1996,"""http://us.imdb.com/M/title-exact?Celtic%20Pride%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1292,"""Simple Wish, A (1997)""",1997,"""http://us.imdb.com/M/title-exact?Simple+Wish%2C+A+(1997)""",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 1293,"""Star Kid (1997)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-120478""",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
 1294,"""Ayn Rand: A Sense of Life (1997)""",1998,"""http://us.imdb.com/Title?Ayn+Rand%3A+A+Sense+of+Life+(1997)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 1295,"""Kicked in the Head (1997)""",1997,"""http://us.imdb.com/M/title-exact?Kicked+in+the+Head+(1997)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1248,50 +1305,93 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1304,"""New York Cop (1996)""",1996,"""http://us.imdb.com/Title?New+York+Cop+(1996)""",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 1305,"""National Lampoon's Senior Trip (1995)""",1995,"""http://us.imdb.com/M/title-exact?National%20Lampoon's%20Senior%20Trip%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1306,"""Delta of Venus (1994)""",1994,"""http://us.imdb.com/M/title-exact?Delta%20of%20Venus%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1307,"""Carmen Miranda: Bananas Is My Business (1994)""",1994,"""http://us.imdb.com/M/title-exact?Carmen%20Miranda:%20Bananas%20Is%20My%20Business%20(1994)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1308,"""Babyfever (1994)""",1994,"""http://us.imdb.com/M/title-exact?Babyfever%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1309,"""Very Natural Thing, A (1974)""",1974,"""http://us.imdb.com/M/title-exact?Very%20Natural%20Thing,%20A%20(1974)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1310,"""Walk in the Sun, A (1945)""",1945,"""http://us.imdb.com/M/title-exact?Walk%20in%20the%20Sun,%20A%20(1945)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1311,"""Waiting to Exhale (1995)""",1996,"""http://us.imdb.com/M/title-exact?Waiting%20to%20Exhale%20(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1312,"""Pompatus of Love, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Pompatus%20of%20Love,%20The%20(1996)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1313,"""Palmetto (1998)""",1998,"""http://us.imdb.com/M/title-exact?Palmetto+(1998)""",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+1314,"""Surviving the Game (1994)""",1994,"""http://us.imdb.com/M/title-exact?Surviving%20the%20Game%20(1994)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1315,"""Inventing the Abbotts (1997)""",1997,"""http://us.imdb.com/M/title-exact?Inventing%20the%20Abbotts%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1316,"""Horse Whisperer, The (1998)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119314""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1317,"""Journey of August King, The (1995)""",1996,"""http://us.imdb.com/M/title-exact?Journey%20of%20August%20King,%20The%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1318,"""Catwalk (1995)""",1996,"""http://us.imdb.com/Title?Catwalk+(1995/I)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1319,"""Neon Bible, The (1995)""",1996,"""http://us.imdb.com/M/title-exact?Neon%20Bible,%20The%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1320,"""Homage (1995)""",1996,"""http://us.imdb.com/M/title-exact?Homage%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1321,"""Open Season (1996)""",1996,"""http://us.imdb.com/Title?Open+Season+(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1322,"""Metisse (Café au Lait) (1993)""",1993,"""http://us.imdb.com/Title?M%E9tisse+(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1323,"""Wooden Man's Bride, The (Wu Kui) (1994)""",1994,"""http://us.imdb.com/M/title-exact?Wu%20Kui%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1324,"""Loaded (1994)""",1996,"""http://us.imdb.com/M/title-exact?Loaded%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1325,"""August (1996)""",1996,"""http://us.imdb.com/M/title-exact?August%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1326,"""Boys (1996)""",1996,"""http://us.imdb.com/M/title-exact?Boys%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1327,"""Captives (1994)""",1994,"""http://us.imdb.com/Title?Captives+(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1328,"""Of Love and Shadows (1994)""",1996,"""http://us.imdb.com/M/title-exact?Of%20Love%20and%20Shadows%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1329,"""Low Life, The (1994)""",1996,"""http://us.imdb.com/Title?Low+Life,+The+(1994/I)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1330,"""An Unforgettable Summer (1994)""",1994,"""http://us.imdb.com/Title?Un+%E9t%E9+inoubliable+(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1331,"""Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Last%20Klezmer%3A%20Leopold%20Kozlowski%2C%20His%20Life%20and%20Music%2C%20The%20%281995%29""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1332,"""My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)""",1993,"""http://us.imdb.com/M/title-exact?En%20compagnie%20d'Antonin%20Artaud%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1333,"""Midnight Dancers (Sibak) (1994)""",1994,"""http://us.imdb.com/M/title-exact?Sibak%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1334,"""Somebody to Love (1994)""",1996,"""http://us.imdb.com/Title?Somebody+to+Love+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1335,"""American Buffalo (1996)""",1996,"""http://us.imdb.com/M/title-exact?American%20Buffalo%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1336,"""Kazaam (1996)""",1996,"""http://us.imdb.com/M/title-exact?Kazaam%20(1996)""",0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+1337,"""Larger Than Life (1996)""",1996,"""http://us.imdb.com/M/title-exact?Larger%20Than%20Life%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1338,"""Two Deaths (1995)""",1996,"""http://us.imdb.com/Title?Two+Deaths+(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1339,"""Stefano Quantestorie (1993)""",1993,"""http://us.imdb.com/M/title-exact?Stefano%20Quantestorie%20%281993%29""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1340,"""Crude Oasis, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Crude%20Oasis,%20The%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1341,"""Hedd Wyn (1992)""",1992,"""http://us.imdb.com/M/title-exact?Hedd%20Wyn%20(1992)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1342,"""Convent, The (Convento, O) (1995)""",1996,"""http://us.imdb.com/M/title-exact?Convento,%20O%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1343,"""Lotto Land (1995)""",1995,"""http://us.imdb.com/M/title-exact?Lotto%20Land%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1344,"""Story of Xinghua, The (1993)""",1993,"""http://us.imdb.com/M/title-exact?Story%20of%20Xinghua,%20The%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1345,"""Day the Sun Turned Cold, The (Tianguo niezi) (1994)""",1994,"""http://us.imdb.com/M/title-exact?Tianguo%20Niezi%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1346,"""Dingo (1992)""",1992,"""http://us.imdb.com/M/title-exact?Dingo%20(1992)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1347,"""Ballad of Narayama, The (Narayama Bushiko) (1958)""",1958,"""http://us.imdb.com/M/title-exact?Narayama%20Bushiko%20%281958%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1348,"""Every Other Weekend (1990)""",1990,"""http://us.imdb.com/Title?Un+week-end+sur+deux+(1990)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1349,"""Mille bolle blu (1993)""",1993,"""http://us.imdb.com/M/title-exact?Mille%20bolle%20blu%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1350,"""Crows and Sparrows (1949)""",1949,"""http://us.imdb.com/Title?Wuya+yu+maque+(1949)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1351,"""Lover's Knot (1996)""",1996,"""http://us.imdb.com/M/title-exact?Lover's%20Knot%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1352,"""Shadow of Angels (Schatten der Engel) (1976)""",1976,"""http://us.imdb.com/M/title-exact?Schatten%20der%20Engel%20(1976)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1353,"""1-900 (1994)""",1994,"""http://us.imdb.com/M/title-exact?06%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1354,"""Venice/Venice (1992)""",1992,"""http://us.imdb.com/M/title-exact?Venice/Venice%20(1992)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1355,"""Infinity (1996)""",1996,"""http://us.imdb.com/M/title-exact?Infinity%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1356,"""Ed's Next Move (1996)""",1996,"""http://us.imdb.com/M/title-exact?Ed%27s%20Next%20Move%20%281996%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1357,"""For the Moment (1994)""",1994,"""http://us.imdb.com/M/title-exact?For%20the%20Moment%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
 1358,"""The Deadly Cure (1996)""",1996,nan,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1359,"""Boys in Venice (1996)""",1996,nan,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1360,"""Sexual Life of the Belgians, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Vie%20sexuelle%20des%20Belges,%20La%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1361,"""Search for One-eye Jimmy, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Search%20for%20One-eye%20Jimmy,%20The%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1362,"""American Strays (1996)""",1996,"""http://us.imdb.com/M/title-exact?American%20Strays%20(1996)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1363,"""Leopard Son, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Leopard%20Son,%20The%20(1996)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1364,"""Bird of Prey (1996)""",1996,"""http://us.imdb.com/M/title-exact?Bird%20of%20Prey%20(1996)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1365,"""Johnny 100 Pesos (1993)""",1993,"""http://us.imdb.com/M/title-exact?Johnny%20100%20Pesos%20(1993)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1366,"""JLG/JLG - autoportrait de décembre (1994)""",1994,"""http://us.imdb.com/M/title-exact?JLG/JLG%20-%20autoportrait%20de%20d%E9cembre%20%281994%29""",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 1367,"""Faust (1994)""",1994,"""http://us.imdb.com/M/title-exact?Faust%20%281994%29""",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1368,"""Mina Tannenbaum (1994)""",1994,"""http://us.imdb.com/M/title-exact?Mina%20Tannenbaum%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1369,"""Forbidden Christ, The (Cristo proibito, Il) (1950)""",1950,"""http://us.imdb.com/M/title-exact?Cristo%20proibito%2C%20Il%20%281950%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1370,"""I Can't Sleep (J'ai pas sommeil) (1994)""",1994,"""http://us.imdb.com/M/title-exact?J'ai%20pas%20sommeil%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1371,"""Machine, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Machine,%20La%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
 1372,"""Stranger, The (1994)""",1994,"""http://us.imdb.com/Title?Stranger,+The+(1994/II)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1373,"""Good Morning (1971)""",1971,"""http://us.imdb.com/M/title-exact?Good%20Morning%20(1971)""",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1374,"""Falling in Love Again (1980)""",1980,"""http://us.imdb.com/M/title-exact?Falling%20in%20Love%20Again%20(1980)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1375,"""Cement Garden, The (1993)""",1993,"""http://us.imdb.com/M/title-exact?Cement%20Garden,%20The%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1376,"""Meet Wally Sparks (1997)""",1997,"""http://us.imdb.com/M/title-exact?Meet%20Wally%20Sparks%20(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1377,"""Hotel de Love (1996)""",1997,"""http://us.imdb.com/M/title-exact?Hotel%20de%20Love%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1378,"""Rhyme & Reason (1997)""",1997,"""http://us.imdb.com/M/title-exact?Rhyme%20%26%20Reason%20(1997)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 1379,"""Love and Other Catastrophes (1996)""",1997,"""http://us.imdb.com/M/title-exact?Love%20and%20Other%20Catastrophes%20%281996%29""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1380,"""Hollow Reed (1996)""",1997,"""http://us.imdb.com/Title?Hollow+Reed+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1381,"""Losing Chase (1996)""",1996,"""http://us.imdb.com/M/title-exact?Losing%20Chase%20%281996%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1382,"""Bonheur, Le (1965)""",1997,"""http://us.imdb.com/M/title-exact?Bonheur%2C%20Le%20%281965%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1383,"""Second Jungle Book: Mowgli & Baloo, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Second%20Jungle%20Book%3A%20Mowgli%20%26%20Baloo%2C%20The%20%281997%29""",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1384,"""Squeeze (1996)""",1997,"""http://us.imdb.com/M/title-exact?Squeeze%20%281996%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1385,"""Roseanna's Grave (For Roseanna) (1997)""",1997,"""http://us.imdb.com/M/title-exact?Roseanna%27s+Grave+(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 1386,"""Tetsuo II: Body Hammer (1992)""",1997,"""http://us.imdb.com/M/title-exact?Tetsuo+II%3A+Body+Hammer+(1992)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1387,"""Fall (1997)""",1997,"""http://us.imdb.com/M/title-exact?Fall+(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1388,"""Gabbeh (1996)""",1997,"""http://us.imdb.com/M/title-exact?Gabbeh+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1389,"""Mondo (1996)""",1997,"""http://us.imdb.com/M/title-exact?Mondo+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1390,"""Innocent Sleep, The (1995)""",1997,"""http://us.imdb.com/M/title-exact?Innocent+Sleep%2C+The+(1995)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 1391,"""For Ever Mozart (1996)""",1997,"""http://us.imdb.com/M/title-exact?For+Ever+Mozart+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1392,"""Locusts, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Locusts%2C+The+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1393,"""Stag (1997)""",1997,"""http://us.imdb.com/M/title-exact?Stag+(1997)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1394,"""Swept from the Sea (1997)""",1997,"""http://us.imdb.com/M/title-exact?Swept+from+the+Sea+(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1395,"""Hurricane Streets (1998)""",1998,"""http://us.imdb.com/Title?Hurricane+Streets+(1998)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1396,"""Stonewall (1995)""",1996,"""http://us.imdb.com/M/title-exact?Stonewall%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1305,42 +1405,65 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1404,"""Withnail and I (1987)""",1987,"""http://us.imdb.com/M/title-exact?Withnail%20and%20I%20(1987)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1405,"""Boy's Life 2 (1997)""",1997,"""http://us.imdb.com/M/title-exact?Boy%27s%20Life%202%20(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1406,"""When Night Is Falling (1995)""",1995,"""http://us.imdb.com/M/title-exact?When%20Night%20is%20Falling%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1407,"""Specialist, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Specialist,%20The%20(1994)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1408,"""Gordy (1995)""",1995,"""http://us.imdb.com/M/title-exact?Gordy%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1409,"""Swan Princess, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Swan%20Princess,%20The%20(1994)""",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1410,"""Harlem (1993)""",1993,"""http://us.imdb.com/M/title-exact?Harlem%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1411,"""Barbarella (1968)""",1968,"""http://us.imdb.com/M/title-exact?Barbarella%20(1968)""",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1412,"""Land Before Time III: The Time of the Great Giving (1995) (V)""",1995,"""http://us.imdb.com/M/title-exact?Land%20Before%20Time%20III%3A%20The%20Time%20of%20the%20Great%20Giving%20%281995%29%20%28V%29""",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1413,"""Street Fighter (1994)""",1994,"""http://us.imdb.com/M/title-exact?Street%20Fighter%20(1994)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1414,"""Coldblooded (1995)""",1995,"""http://us.imdb.com/M/title-exact?Coldblooded%20(1995)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1415,"""Next Karate Kid, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Next%20Karate%20Kid,%20The%20(1994)""",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1416,"""No Escape (1994)""",1994,"""http://us.imdb.com/M/title-exact?No%20Escape%20(1994)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1417,"""Turning, The (1992)""",1997,"""http://us.imdb.com/M/title-exact?Turning%2C%20The%20%281992%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1418,"""Joy Luck Club, The (1993)""",1993,"""http://us.imdb.com/M/title-exact?Joy+Luck+Club%2C+The+(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1419,"""Highlander III: The Sorcerer (1994)""",1994,"""http://us.imdb.com/M/title-exact?Highlander%20III:%20The%20Sorcerer%20(1994)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1420,"""Gilligan's Island: The Movie (1998)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119195""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1421,"""My Crazy Life (Mi vida loca) (1993)""",1993,"""http://us.imdb.com/M/title-exact?Mi%20vida%20loca%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1422,"""Suture (1993)""",1993,"""http://us.imdb.com/M/title-exact?Suture%20(1993)""",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+1423,"""Walking Dead, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Walking%20Dead,%20The%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1424,"""I Like It Like That (1994)""",1994,"""http://us.imdb.com/M/title-exact?I%20Like%20It%20Like%20That%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
 1425,"""I'll Do Anything (1994)""",1994,"""http://us.imdb.com/M/title-exact?I'll%20Do%20Anything%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1426,"""Grace of My Heart (1996)""",1996,"""http://us.imdb.com/M/title-exact?Grace%20of%20My%20Heart%20(1996)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1427,"""Drunks (1995)""",1996,"""http://us.imdb.com/M/title-exact?Drunks%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1428,"""SubUrbia (1997)""",1997,"""http://us.imdb.com/M/title-exact?SubUrbia%20(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1429,"""Sliding Doors (1998)""",1998,"""http://us.imdb.com/Title?Sliding+Doors+(1998)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1430,"""Ill Gotten Gains (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119352""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1431,"""Legal Deceit (1997)""",1997,"""http://us.imdb.com/Title?Legal+Deceit+(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1432,"""Mighty, The (1998)""",1998,"""http://us.imdb.com/Title?Mighty,+The+(1998)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1433,"""Men of Means (1998)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119655""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1434,"""Shooting Fish (1997)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-120122""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1435,"""Steal Big, Steal Little (1995)""",1995,"""http://us.imdb.com/M/title-exact?Steal%20Big,%20Steal%20Little%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1436,"""Mr. Jones (1993)""",1993,"""http://us.imdb.com/M/title-exact?Mr.%20Jones%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1437,"""House Party 3 (1994)""",1994,"""http://us.imdb.com/M/title-exact?House%20Party%203%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1438,"""Panther (1995)""",1995,"""http://us.imdb.com/M/title-exact?Panther%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1439,"""Jason's Lyric (1994)""",1994,"""http://us.imdb.com/M/title-exact?Jason's%20Lyric%20(1994)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 1440,"""Above the Rim (1994)""",1994,"""http://us.imdb.com/M/title-exact?Above%20the%20Rim%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1441,"""Moonlight and Valentino (1995)""",1995,"""http://us.imdb.com/M/title-exact?Moonlight%20and%20Valentino%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1442,"""Scarlet Letter, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Scarlet%20Letter,%20The%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1443,"""8 Seconds (1994)""",1994,"""http://us.imdb.com/M/title-exact?8%20Seconds%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1444,"""That Darn Cat! (1965)""",1965,"""http://us.imdb.com/Title?That+Darn+Cat%21+(1965)""",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 1445,"""Ladybird Ladybird (1994)""",1994,"""http://us.imdb.com/M/title-exact?Ladybird%20Ladybird%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1446,"""Bye Bye, Love (1995)""",1995,"""http://us.imdb.com/M/title-exact?Bye%20Bye,%20Love%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1447,"""Century (1993)""",1993,"""http://us.imdb.com/M/title-exact?Century%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1448,"""My Favorite Season (1993)""",1996,"""http://us.imdb.com/Title?Ma+saison+pr%E9f%E9r%E9e+(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1449,"""Pather Panchali (1955)""",1996,"""http://us.imdb.com/M/title-exact?Pather%20Panchali%20(1955)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1450,"""Golden Earrings (1947)""",1947,"""http://us.imdb.com/M/title-exact?Golden%20Earrings%20%281947%29""",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1451,"""Foreign Correspondent (1940)""",1940,"""http://us.imdb.com/M/title-exact?Foreign%20Correspondent%20(1940)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1452,"""Lady of Burlesque (1943)""",1943,"""http://us.imdb.com/M/title-exact?Lady%20of%20Burlesque%20(1943)""",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1453,"""Angel on My Shoulder (1946)""",1946,"""http://us.imdb.com/M/title-exact?Angel%20on%20My%20Shoulder%20(1946)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 1454,"""Angel and the Badman (1947)""",1947,"""http://us.imdb.com/M/title-exact?Angel%20and%20the%20Badman%20(1947)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1455,"""Outlaw, The (1943)""",1943,"""http://us.imdb.com/M/title-exact?Outlaw,%20The%20(1943)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 1456,"""Beat the Devil (1954)""",1954,"""http://us.imdb.com/M/title-exact?Beat%20the%20Devil%20(1954)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1457,"""Love Is All There Is (1996)""",1996,"""http://us.imdb.com/M/title-exact?Love%20Is%20All%20There%20Is%20(1996)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1458,"""Damsel in Distress, A (1937)""",1937,"""http://us.imdb.com/M/title-exact?Damsel%20in%20Distress,%20A%20(1937)""",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
 1459,"""Madame Butterfly (1995)""",1996,"""http://us.imdb.com/M/title-exact?Madame%20Butterfly%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1460,"""Sleepover (1995)""",1996,"""http://us.imdb.com/M/title-exact?Sleepover%20(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1461,"""Here Comes Cookie (1935)""",1935,"""http://us.imdb.com/M/title-exact?Here%20Comes%20Cookie%20(1935)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1462,"""Thieves (Voleurs, Les) (1996)""",1996,"""http://us.imdb.com/M/title-exact?Voleurs,%20Les%20(1996)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
 1463,"""Boys, Les (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-118764""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1464,"""Stars Fell on Henrietta, The (1995)""",1995,"""http://us.imdb.com/Title?Stars+Fell+on+Henrietta,+The+(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1465,"""Last Summer in the Hamptons (1995)""",1995,"""http://us.imdb.com/M/title-exact?Last%20Summer%20in%20the%20Hamptons%20(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1466,"""Margaret's Museum (1995)""",1995,"""http://us.imdb.com/M/title-exact?Margaret's%20Museum%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1467,"""Saint of Fort Washington, The (1993)""",1993,"""http://us.imdb.com/M/title-exact?Saint%20of%20Fort%20Washington,%20The%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1468,"""Cure, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Cure,%20The%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -1351,6 +1474,8 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1473,"""Little Princess, The (1939)""",1939,"""http://us.imdb.com/M/title-exact?Little%20Princess,%20The%20(1939)""",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1474,"""Nina Takes a Lover (1994)""",1994,"""http://us.imdb.com/M/title-exact?Nina%20Takes%20a%20Lover%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 1475,"""Bhaji on the Beach (1993)""",1993,"""http://us.imdb.com/M/title-exact?Bhaji%20on%20the%20Beach%20(1993)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1476,"""Raw Deal (1948)""",1948,"""http://us.imdb.com/M/title-exact?Raw%20Deal%20(1948)""",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1477,"""Nightwatch (1997)""",1997,"""http://us.imdb.com/M/title-exact?Nightwatch%20(1997)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
 1478,"""Dead Presidents (1995)""",1995,"""http://us.imdb.com/M/title-exact?Dead%20Presidents%20(1995)""",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 1479,"""Reckless (1995)""",1995,"""http://us.imdb.com/Title?Reckless+(1995/I)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1480,"""Herbie Rides Again (1974)""",1974,"""http://us.imdb.com/M/title-exact?Herbie%20Rides%20Again%20(1974)""",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1359,10 +1484,15 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1483,"""Man in the Iron Mask, The (1998)""",1998,"""http://us.imdb.com/Title?Man+in+the+Iron+Mask,+The+(1998/I)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
 1484,"""Jerky Boys, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Jerky%20Boys,%20The%20(1994)""",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1485,"""Colonel Chabert, Le (1994)""",1994,"""http://us.imdb.com/M/title-exact?Colonel%20Chabert,%20Le%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+1486,"""Girl in the Cadillac (1995)""",1995,"""http://us.imdb.com/M/title-exact?Girl%20in%20the%20Cadillac%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1487,"""Even Cowgirls Get the Blues (1993)""",1993,"""http://us.imdb.com/M/title-exact?Even%20Cowgirls%20Get%20the%20Blues%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 1488,"""Germinal (1993)""",1993,"""http://us.imdb.com/M/title-exact?Germinal%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1489,"""Chasers (1994)""",1994,"""http://us.imdb.com/M/title-exact?Chasers%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1490,"""Fausto (1993)""",1993,"""http://us.imdb.com/M/title-exact?Fausto%20%281993%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1491,"""Tough and Deadly (1995)""",1995,"""http://us.imdb.com/M/title-exact?Tough%20and%20Deadly%20(1995)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 1492,"""Window to Paris (1994)""",1994,"""http://us.imdb.com/Title?Okno+v+Parizh+(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1493,"""Modern Affair, A (1995)""",1996,"""http://us.imdb.com/M/title-exact?Modern%20Affair,%20A%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1494,"""Mostro, Il (1994)""",1996,"""http://us.imdb.com/M/title-exact?Mostro,%20Il%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1495,"""Flirt (1995)""",1996,"""http://us.imdb.com/Title?Flirt+(1995/I)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1496,"""Carpool (1996)""",1996,"""http://us.imdb.com/M/title-exact?Carpool%20(1996)""",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 1497,"""Line King: Al Hirschfeld, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Line%20King,%20The%20(1996)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -1370,79 +1500,184 @@ itemId,title,year,link,unknown,Action,Adventure,Animation,Children,Comedy,Crime,
 1499,"""Grosse Fatigue (1994)""",1994,"""http://us.imdb.com/M/title-exact?Grosse%20fatigue%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1500,"""Santa with Muscles (1996)""",1996,"""http://us.imdb.com/M/title-exact?Santa%20with%20Muscles%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1501,"""Prisoner of the Mountains (Kavkazsky Plennik) (1996)""",1997,"""http://us.imdb.com/M/title-exact?Kavkazsky%20Plennik%20(1996)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1502,"""Naked in New York (1994)""",1994,"""http://us.imdb.com/Title?Naked+in+New+York+(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 1503,"""Gold Diggers: The Secret of Bear Mountain (1995)""",1995,"""http://us.imdb.com/M/title-exact?Gold%20Diggers:%20The%20Secret%20of%20Bear%20Mountain%20(1995)""",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1504,"""Bewegte Mann, Der (1994)""",1996,"""http://us.imdb.com/M/title-exact?Bewegte%20Mann%2C%20Der%20%281994%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1505,"""Killer: A Journal of Murder (1995)""",1996,"""http://us.imdb.com/M/title-exact?Killer:%20A%20Journal%20of%20Murder%20(1995)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 1506,"""Nelly & Monsieur Arnaud (1995)""",1996,"""http://us.imdb.com/M/title-exact?Nelly%20%26%20Monsieur%20Arnaud%20%281995%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1507,"""Three Lives and Only One Death (1996)""",1996,"""http://us.imdb.com/M/title-exact?Trois%20vies%20et%20une%20seule%20mort%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1508,"""Babysitter, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Babysitter,%20The%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1509,"""Getting Even with Dad (1994)""",1994,"""http://us.imdb.com/M/title-exact?Getting%20Even%20with%20Dad%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1510,"""Mad Dog Time (1996)""",1996,"""http://us.imdb.com/M/title-exact?Mad%20Dog%20Time%20(1996)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 1511,"""Children of the Revolution (1996)""",1997,"""http://us.imdb.com/M/title-exact?Children%20of%20the%20Revolution%20%281996%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1512,"""World of Apu, The (Apur Sansar) (1959)""",1996,"""http://us.imdb.com/M/title-exact?Apur%20Sansar%20(1959)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1513,"""Sprung (1997)""",1997,"""http://us.imdb.com/M/title-exact?Sprung%20%281997%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1514,"""Dream With the Fishes (1997)""",1997,"""http://us.imdb.com/M/title-exact?Dream+With+the+Fishes+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1515,"""Wings of Courage (1995)""",1995,"""http://us.imdb.com/M/title-exact?Wings%20of%20Courage%20(1995)""",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1516,"""Wedding Gift, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Wedding%20Gift,%20The%20(1994)%20(TV)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1517,"""Race the Sun (1996)""",1996,"""http://us.imdb.com/M/title-exact?Race%20the%20Sun%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1518,"""Losing Isaiah (1995)""",1995,"""http://us.imdb.com/M/title-exact?Losing%20Isaiah%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1519,"""New Jersey Drive (1995)""",1995,"""http://us.imdb.com/M/title-exact?New%20Jersey%20Drive%20(1995)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1520,"""Fear, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Fear,%20The%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1521,"""Mr. Wonderful (1993)""",1993,"""http://us.imdb.com/M/title-exact?Mr.%20Wonderful%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1522,"""Trial by Jury (1994)""",1994,"""http://us.imdb.com/M/title-exact?Trial%20by%20Jury%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1523,"""Good Man in Africa, A (1994)""",1994,"""http://us.imdb.com/M/title-exact?Good%20Man%20in%20Africa,%20A%20(1994)""",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1524,"""Kaspar Hauser (1993)""",1996,"""http://us.imdb.com/Title?Kaspar+Hauser+(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1525,"""Object of My Affection, The (1998)""",1998,"""http://us.imdb.com/Title?Object+of+My+Affection,+The+(1998)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 1526,"""Witness (1985)""",1985,"""http://us.imdb.com/M/title-exact?Witness+(1985)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
 1527,"""Senseless (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-120820""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1528,"""Nowhere (1997)""",1997,"""http://us.imdb.com/M/title-exact?Nowhere%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1529,"""Underground (1995)""",1996,"""http://us.imdb.com/M/title-exact?Underground%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1530,"""Jefferson in Paris (1995)""",1995,"""http://us.imdb.com/M/title-exact?Jefferson%20in%20Paris%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1531,"""Far From Home: The Adventures of Yellow Dog (1995)""",1995,"""http://us.imdb.com/M/title-exact?Far%20From%20Home:%20The%20Adventures%20of%20Yellow%20Dog%20(1995)""",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1532,"""Foreign Student (1994)""",1994,"""http://us.imdb.com/M/title-exact?Foreign%20Student%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1533,"""I Don't Want to Talk About It (De eso no se habla) (1993)""",1993,"""http://us.imdb.com/M/title-exact?De%20Eso%20No%20Se%20Habla%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1534,"""Twin Town (1997)""",1997,"""http://us.imdb.com/M/title-exact?Twin%20Town%20%281997%29""",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 1535,"""Enfer, L' (1994)""",1994,"""http://us.imdb.com/M/title-exact?Enfer,%20L'%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1536,"""Aiqing wansui (1994)""",1996,"""http://us.imdb.com/M/title-exact?Aiqing%20Wansui%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1537,"""Cosi (1996)""",1997,"""http://us.imdb.com/M/title-exact?Cosi%20(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1538,"""All Over Me (1997)""",1997,"""http://us.imdb.com/M/title-exact?All%20Over%20Me%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1539,"""Being Human (1993)""",1993,"""http://us.imdb.com/M/title-exact?Being%20Human%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1540,"""Amazing Panda Adventure, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Amazing%20Panda%20Adventure,%20The%20(1995)""",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1541,"""Beans of Egypt, Maine, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Beans%20of%20Egypt,%20Maine,%20The%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1542,"""Scarlet Letter, The (1926)""",1926,"""http://us.imdb.com/M/title-exact?Scarlet%20Letter,%20The%20(1926)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1543,"""Johns (1996)""",1996,"""http://us.imdb.com/M/title-exact?Johns%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1544,"""It Takes Two (1995)""",1995,"""http://us.imdb.com/M/title-exact?It%20Takes%20Two%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1545,"""Frankie Starlight (1995)""",1995,"""http://us.imdb.com/M/title-exact?Frankie%20Starlight%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1546,"""Shadows (Cienie) (1988)""",1988,"""http://us.imdb.com/M/title-exact?Cienie%20(1988)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1547,"""Show, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Show,%20The%20(1995)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1548,"""The Courtyard (1995)""",1995,"""http://us.imdb.com/M/title-exact?Courtyard,%20The%20(1995)%20(TV)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1549,"""Dream Man (1995)""",1995,"""http://us.imdb.com/M/title-exact?Dream%20Man%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1550,"""Destiny Turns on the Radio (1995)""",1995,"""http://us.imdb.com/M/title-exact?Destiny%20Turns%20on%20the%20Radio%20(1995)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1551,"""Glass Shield, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Glass%20Shield,%20The%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1552,"""Hunted, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Hunted,%20The%20(1995)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1553,"""Underneath, The (1995)""",1995,"""http://us.imdb.com/M/title-exact?Underneath,%20The%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 1554,"""Safe Passage (1994)""",1994,"""http://us.imdb.com/M/title-exact?Safe%20Passage%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1555,"""Secret Adventures of Tom Thumb, The (1993)""",1993,"""http://us.imdb.com/M/title-exact?Secret%20Adventures%20of%20Tom%20Thumb,%20The%20(1993)""",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1556,"""Condition Red (1995)""",1995,"""http://us.imdb.com/M/title-exact?Condition%20Red%20(1995)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1557,"""Yankee Zulu (1994)""",1996,"""http://us.imdb.com/M/title-exact?Yankee%20Zulu%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1558,"""Aparajito (1956)""",1996,"""http://us.imdb.com/M/title-exact?Aparajito%20(1956)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1559,"""Hostile Intentions (1994)""",1994,"""http://us.imdb.com/M/title-exact?Hostile%20Intentions%20(1994)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 1560,"""Clean Slate (Coup de Torchon) (1981)""",1981,"""http://us.imdb.com/M/title-exact?Coup%20de%20torchon%20(1981)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1561,"""Tigrero: A Film That Was Never Made (1994)""",1994,"""http://us.imdb.com/M/title-exact?Tigrero:%20A%20Film%20That%20Was%20Never%20Made%20(1994)""",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+1562,"""Eye of Vichy, The (Oeil de Vichy, L') (1993)""",1993,"""http://us.imdb.com/M/title-exact?Oeil%20de%20Vichy,%20L'%20(1993)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1563,"""Promise, The (Versprechen, Das) (1994)""",1994,"""http://us.imdb.com/M/title-exact?Versprechen,%20Das%20(1994)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1564,"""To Cross the Rubicon (1991)""",1991,"""http://us.imdb.com/M/title-exact?To%20Cross%20the%20Rubicon%20(1991)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1565,"""Daens (1992)""",1992,"""http://us.imdb.com/M/title-exact?Daens%20(1992)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1566,"""Man from Down Under, The (1943)""",1943,"""http://us.imdb.com/Title?Man+from+Down+Under,+The+(1943)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1567,"""Careful (1992)""",1992,"""http://us.imdb.com/M/title-exact?Careful%20(1992)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1568,"""Vermont Is For Lovers (1992)""",1992,"""http://us.imdb.com/M/title-exact?Vermont%20Is%20For%20Lovers%20(1992)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1569,"""Vie est belle, La (Life is Rosey) (1987)""",1987,"""http://us.imdb.com/M/title-exact?Vie%20est%20belle,%20La%20(1987)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1570,"""Quartier Mozart (1992)""",1992,"""http://us.imdb.com/M/title-exact?Quartier%20Mozart%20(1992)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1571,"""Touki Bouki (Journey of the Hyena) (1973)""",1973,"""http://us.imdb.com/M/title-exact?Touki%20Bouki%20(1973)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1572,"""Wend Kuuni (God's Gift) (1982)""",1982,"""http://us.imdb.com/M/title-exact?Wend%20Kuuni%20(1982)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1573,"""Spirits of the Dead (Tre passi nel delirio) (1968)""",1968,"""http://us.imdb.com/M/title-exact?Tre%20passi%20nel%20delirio%20(1968)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1574,"""Pharaoh's Army (1995)""",1995,"""http://us.imdb.com/M/title-exact?Pharaoh's%20Army%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1575,"""I, Worst of All (Yo, la peor de todas) (1990)""",1990,"""http://us.imdb.com/M/title-exact?Yo,%20la%20Peor%20de%20Todas%20(1990)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1576,"""Hungarian Fairy Tale, A (1987)""",1987,"""http://us.imdb.com/M/title-exact?Hol%20volt,%20hol%20nem%20volt%20(1987)""",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1577,"""Death in the Garden (Mort en ce jardin, La) (1956)""",1956,"""http://us.imdb.com/Title?Mort+en+ce+jardin,+La+(1956)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1578,"""Collectionneuse, La (1967)""",1967,"""http://us.imdb.com/M/title-exact?Collectionneuse,%20La%20(1967)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1579,"""Baton Rouge (1988)""",1988,"""http://us.imdb.com/Title?B%E2ton+rouge+(1988)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1580,"""Liebelei (1933)""",1933,"""http://us.imdb.com/M/title-exact?Liebelei%20(1933)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1581,"""Woman in Question, The (1950)""",1950,"""http://us.imdb.com/M/title-exact?Woman%20in%20Question,%20The%20(1950)""",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1582,"""T-Men (1947)""",1947,"""http://us.imdb.com/M/title-exact?T-Men%20(1947)""",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1583,"""Invitation, The (Zaproszenie) (1986)""",1986,"""http://us.imdb.com/M/title-exact?Zaproszenie%20(1986)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1584,"""Symphonie pastorale, La (1946)""",1946,"""http://us.imdb.com/M/title-exact?Symphonie%20pastorale,%20La%20(1946)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1585,"""American Dream (1990)""",1990,"""http://us.imdb.com/M/title-exact?American%20Dream%20(1990)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1586,"""Lashou shentan (1992)""",1992,"""http://us.imdb.com/M/title-exact?Lashou%20Shentan%20(1992)""",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1587,"""Terror in a Texas Town (1958)""",1958,"""http://us.imdb.com/M/title-exact?Terror%20in%20a%20Texas%20Town%20(1958)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1588,"""Salut cousin! (1996)""",1997,"""http://us.imdb.com/M/title-exact?Salut%20cousin!%20(1996)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1589,"""Schizopolis (1996)""",1997,"""http://us.imdb.com/Title?Schizopolis+(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1590,"""To Have, or Not (1995)""",1997,"""http://us.imdb.com/M/title-exact?En%20avoir%20%28ou%20pas%29%20%281995%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1591,"""Duoluo tianshi (1995)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-112913""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1592,"""Magic Hour, The (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-119594""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1593,"""Death in Brunswick (1991)""",1996,"""http://us.imdb.com/M/title-exact?Death%20in%20Brunswick%20(1991)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1594,"""Everest (1998)""",1998,"""http://us.imdb.com/Title?Everest+(1998)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1595,"""Shopping (1994)""",1996,"""http://us.imdb.com/M/title-exact?Shopping%20(1994)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1596,"""Nemesis 2: Nebula (1995)""",1995,"""http://us.imdb.com/M/title-exact?Nemesis%202:%20Nebula%20(1995)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
 1597,"""Romper Stomper (1992)""",1992,"""http://us.imdb.com/M/title-exact?Romper%20Stomper%20(1992)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1598,"""City of Industry (1997)""",1997,"""http://us.imdb.com/M/title-exact?City%20of%20Industry%20(1997)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 1599,"""Someone Else's America (1995)""",1996,"""http://us.imdb.com/M/title-exact?Someone%20Else's%20America%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1600,"""Guantanamera (1994)""",1997,"""http://us.imdb.com/M/title-exact?Guantanamera%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1601,"""Office Killer (1997)""",1997,"""http://us.imdb.com/M/title-exact?imdb-title-119819""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1602,"""Price Above Rubies, A (1998)""",1998,"""http://us.imdb.com/Title?Price+Above+Rubies,+A+(1998)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1603,"""Angela (1995)""",1996,"""http://us.imdb.com/M/title-exact?Angela%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1604,"""He Walked by Night (1948)""",1948,"""http://us.imdb.com/M/title-exact?He%20Walked%20by%20Night%20(1948)""",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
 1605,"""Love Serenade (1996)""",1997,"""http://us.imdb.com/M/title-exact?Love+Serenade+(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1606,"""Deceiver (1997)""",1997,"""http://us.imdb.com/M/title-exact?Liar+(1997)""",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 1607,"""Hurricane Streets (1998)""",1998,"""http://us.imdb.com/Title?Hurricane+Streets+(1998)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1608,"""Buddy (1997)""",1997,"""http://us.imdb.com/M/title-exact?Buddy%20%281997%29""",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1609,"""B*A*P*S (1997)""",1997,"""http://us.imdb.com/M/title-exact?B%2EA%2EP%2ES%2E%20(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1610,"""Truth or Consequences, N.M. (1997)""",1997,"""http://us.imdb.com/Title?Truth+or+Consequences,+N.M.+(1997)""",0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+1611,"""Intimate Relations (1996)""",1997,"""http://us.imdb.com/M/title-exact?Intimate%20Relations%20%281996%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1612,"""Leading Man, The (1996)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-116845""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1613,"""Tokyo Fist (1995)""",1998,"""http://us.imdb.com/M/title-exact?Tokyo+Fist+(1995)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1614,"""Reluctant Debutante, The (1958)""",1958,"""http://us.imdb.com/M/title-exact?Reluctant%20Debutante,%20The%20(1958)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1615,"""Warriors of Virtue (1997)""",1997,"""http://us.imdb.com/M/title-exact?Warriors%20of%20Virtue%20%281997%29""",0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 1616,"""Desert Winds (1995)""",1995,"""http://us.imdb.com/M/title-exact?Desert%20Winds%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1617,"""Hugo Pool (1997)""",1997,"""http://us.imdb.com/M/title-exact?Hugo+Pool+(1997)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1618,"""King of New York (1990)""",1990,"""http://us.imdb.com/Title?King+of+New+York+(1990)""",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1619,"""All Things Fair (1996)""",1996,"""http://us.imdb.com/Title?Lust+och+f%E4gring+stor+(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1620,"""Sixth Man, The (1997)""",1997,"""http://us.imdb.com/M/title-exact?Sixth%20Man%2C%20The%20(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1621,"""Butterfly Kiss (1995)""",1996,"""http://us.imdb.com/M/title-exact?Butterfly%20Kiss%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1622,"""Paris, France (1993)""",1993,"""http://us.imdb.com/M/title-exact?Paris,%20France%20(1993)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1623,"""Cérémonie, La (1995)""",1996,"""http://us.imdb.com/M/title-exact?C%E9r%E9monie%2C%20La%20%281995%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1624,"""Hush (1998)""",1998,"""http://us.imdb.com/Title?Hush+(1998)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1625,"""Nightwatch (1997)""",1997,"""http://us.imdb.com/M/title-exact?Nightwatch%20(1997)""",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+1626,"""Nobody Loves Me (Keiner liebt mich) (1994)""",1996,"""http://us.imdb.com/M/title-exact?Keiner%20liebt%20mich%20(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1627,"""Wife, The (1995)""",1996,"""http://us.imdb.com/Title?Wife,+The+(1995)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 1628,"""Lamerica (1994)""",1994,"""http://us.imdb.com/M/title-exact?Lamerica%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1629,"""Nico Icon (1995)""",1995,"""http://us.imdb.com/M/title-exact?Nico%20Icon%20(1995)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1630,"""Silence of the Palace, The (Saimt el Qusur) (1994)""",1996,"""http://us.imdb.com/M/title-exact?Saimt%20el%20Qusur%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1631,"""Slingshot, The (1993)""",1993,"""http://us.imdb.com/Title?K%E5disbellan+(1993)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1632,"""Land and Freedom (Tierra y libertad) (1995)""",1996,"""http://us.imdb.com/M/title-exact?Tierra%20y%20libertad%20(1995)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1633,"""Á köldum klaka (Cold Fever) (1994)""",1996,"""http://us.imdb.com/Title?%C1+k%F6ldum+klaka+(1994)""",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1634,"""Etz Hadomim Tafus (Under the Domin Tree) (1994)""",1996,"""http://us.imdb.com/M/title-exact?Etz%20Hadomim%20Tafus%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1635,"""Two Friends (1986) """,1986,"""http://us.imdb.com/M/title-exact?Two%20Friends%20(1986)%20(TV)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1636,"""Brothers in Trouble (1995)""",1996,"""http://us.imdb.com/M/title-exact?Brothers%20in%20Trouble%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1637,"""Girls Town (1996)""",1996,"""http://us.imdb.com/M/title-exact?Girls%20Town%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1638,"""Normal Life (1996)""",1996,"""http://us.imdb.com/M/title-exact?Normal%20Life%20(1996)""",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 1639,"""Bitter Sugar (Azucar Amargo) (1996)""",1996,"""http://us.imdb.com/M/title-exact?Bitter%20Sugar%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1640,"""Eighth Day, The (1996)""",1996,"""http://us.imdb.com/Title?Huiti%E8me+jour,+Le+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1641,"""Dadetown (1995)""",1996,"""http://us.imdb.com/M/title-exact?Dadetown%20(1995)""",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 1642,"""Some Mother's Son (1996)""",1996,"""http://us.imdb.com/M/title-exact?Some%20Mother's%20Son%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1643,"""Angel Baby (1995)""",1997,"""http://us.imdb.com/Title?Angel+Baby+(1995/I)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1644,"""Sudden Manhattan (1996)""",1997,"""http://us.imdb.com/M/title-exact?Sudden%20Manhattan%20%281996%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 1645,"""Butcher Boy, The (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-118804""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1646,"""Men With Guns (1997)""",1998,"""http://us.imdb.com/Title?Men+with+Guns+(1997/I)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1647,"""Hana-bi (1997)""",1998,"""http://us.imdb.com/Title?Hana-bi+(1997)""",0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+1648,"""Niagara, Niagara (1997)""",1998,"""http://us.imdb.com/Title?Niagara,+Niagara+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1649,"""Big One, The (1997)""",1998,"""http://us.imdb.com/Title?Big+One,+The+(1997)""",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 1650,"""Butcher Boy, The (1998)""",1998,"""http://us.imdb.com/M/title-exact?imdb-title-118804""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1651,"""Spanish Prisoner, The (1997)""",1998,"""http://us.imdb.com/Title?Spanish+Prisoner,+The+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1652,"""Temptress Moon (Feng Yue) (1996)""",1997,"""http://us.imdb.com/M/title-exact?Feng%20Yue%20%281996%29""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1653,"""Entertaining Angels: The Dorothy Day Story (1996)""",1996,"""http://us.imdb.com/M/title-exact?Entertaining%20Angels:%20The%20Dorothy%20Day%20Story%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1654,"""Chairman of the Board (1998)""",1998,"""http://us.imdb.com/Title?Chairman+of+the+Board+(1998)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1655,"""Favor, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?Favor,%20The%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 1656,"""Little City (1998)""",1998,"""http://us.imdb.com/M/title-exact?Little+City+(1998)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1657,"""Target (1995)""",1996,"""http://us.imdb.com/M/title-exact?Target%20(1995)""",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1658,"""Substance of Fire, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Substance%20of%20Fire,%20The%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1659,"""Getting Away With Murder (1996)""",1996,"""http://us.imdb.com/Title?Getting+Away+With+Murder+(1996)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1660,"""Small Faces (1995)""",1996,"""http://us.imdb.com/M/title-exact?Small%20Faces%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1661,"""New Age, The (1994)""",1994,"""http://us.imdb.com/M/title-exact?New%20Age,%20The%20(1994)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 1662,"""Rough Magic (1995)""",1997,"""http://us.imdb.com/M/title-exact?Rough%20Magic%20%281995%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1663,"""Nothing Personal (1995)""",1997,"""http://us.imdb.com/M/title-exact?Nothing%20Personal%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
 1664,"""8 Heads in a Duffel Bag (1997)""",1997,"""http://us.imdb.com/Title?8+Heads+in+a+Duffel+Bag+(1997)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1665,"""Brother's Kiss, A (1997)""",1997,"""http://us.imdb.com/M/title-exact?Brother%27s%20Kiss%2C%20A%20%281997%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1666,"""Ripe (1996)""",1997,"""http://us.imdb.com/M/title-exact?Ripe%20%281996%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1667,"""Next Step, The (1995)""",1997,"""http://us.imdb.com/M/title-exact?Next%20Step%2C%20The%20%281995%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1668,"""Wedding Bell Blues (1996)""",1997,"""http://us.imdb.com/M/title-exact?Wedding%20Bell%20Blues%20%281996%29""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1669,"""MURDER and murder (1996)""",1997,"""http://us.imdb.com/M/title-exact?MURDER+and+murder+(1996)""",0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+1670,"""Tainted (1998)""",1998,"""http://us.imdb.com/M/title-exact?Tainted+(1998)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1671,"""Further Gesture, A (1996)""",1998,"""http://us.imdb.com/M/title-exact?Further+Gesture%2C+A+(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1672,"""Kika (1993)""",1993,"""http://us.imdb.com/M/title-exact?Kika%20(1993)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1673,"""Mirage (1995)""",1995,"""http://us.imdb.com/M/title-exact?Mirage%20(1995)""",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 1674,"""Mamma Roma (1962)""",1962,"""http://us.imdb.com/M/title-exact?Mamma%20Roma%20(1962)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1675,"""Sunchaser, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?Sunchaser,%20The%20(1996)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1676,"""War at Home, The (1996)""",1996,"""http://us.imdb.com/M/title-exact?War%20at%20Home%2C%20The%20%281996%29""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1677,"""Sweet Nothing (1995)""",1996,"""http://us.imdb.com/M/title-exact?Sweet%20Nothing%20(1995)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1678,"""Mat' i syn (1997)""",1998,"""http://us.imdb.com/M/title-exact?Mat%27+i+syn+(1997)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1679,"""B. Monkey (1998)""",1998,"""http://us.imdb.com/M/title-exact?B%2E+Monkey+(1998)""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+1680,"""Sliding Doors (1998)""",1998,"""http://us.imdb.com/Title?Sliding+Doors+(1998)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1681,"""You So Crazy (1994)""",1994,"""http://us.imdb.com/M/title-exact?You%20So%20Crazy%20(1994)""",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1682,"""Scream of Stone (Schrei aus Stein) (1991)""",1996,"""http://us.imdb.com/M/title-exact?Schrei%20aus%20Stein%20(1991)""",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
