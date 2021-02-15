@@ -1,87 +1,494 @@
 userId,city,state,isTeacher,zipcode
+0054e9da99c4cacc5b5facb72c11c831,Zionsville,Indiana,No,460
+01776ab808cbe7bc6efbfffa2e088f3b,Cape Girardeau,Missouri,No,637
+01fc8222dbaf46dae196ebecaaec5870,Abbeville,Louisiana,No,705
+020568792bef8f98c635457133f850da,,Oklahoma,No,0
+0237954de169fe98e4f5985d05bda01d,Bellerose,New York,No,114
+02398c2183303e5db981f815f39dcafd,Silverton,Oregon,No,973
+0312eaed848c7fb2b64c2a8d56703f71,Warwick,New York,No,109
+037f46db2410997862025e939ca69925,Austin,Texas,No,787
+03ad8977ed061246590e6f260a45e925,Soda Springs,Idaho,Yes,832
+05352a107744b096a83e8ffcf778cd3d,New York,New York,No,100
+065daf0ea51b8b5d1b1727c00195887b,Jackson,Mississippi,No,392
+06a04a71ab1b804c46ec7a4809d2b760,Van Nuys,California,No,914
+06ff831bfb1050ad8e7fb88616bcd911,Sandy,Utah,No,840
+075dc010b4abe6f7abf5085d377e7a74,Clearfield,Utah,No,840
+0813e1f18121c25340ff3c1523387cdf,Hot Springs National Park,Arkansas,No,719
+08d24563965195df8561282601fa21dc,Oakland,California,No,946
+096050ba2d721b21cc1d72239698e396,Chester,New Jersey,No,79
+09e09faaffd8186f55d0966358abdff6,Climax,Michigan,No,490
+09f6920582503cd167fa069125f6d52c,Watertown,Massachusetts,No,24
+0a2c3a443010cef5bc4509ea9d54f2fa,,other,Yes,0
+0be5b9c44a32cb316173fe7bdb800710,Brooklyn,New York,No,112
+0d0beaa20d8ccaa51d6bf115a5cd6b88,Eutawville,South Carolina,No,290
+0d3cd00f43ee43edf3c1d5729d663989,Lansdowne,Pennsylvania,No,190
+0d50ce5aa72cd733e79acc0f49b3ec04,New York,New York,No,100
+0d68e0f94a883b7fc96bf06d89ce5011,District Heights,California,No,207
+0e179a7fa83c7500680ed00be72de40c,Charlotte,North Carolina,No,282
+0fde6e06f54b8d15292af68b5e330662,Littleton,Massachusetts,No,14
+0feced35d1b48f1d7b16017e7c815a34,,New York,No,0
+1055588668659df19a67eb4c34fdce03,Stamford,Connecticut,No,69
+1166ef0235fe08a5c8317152b6e29e00,Torrance,other,Yes,905
+116eda8b22ddd17543634ebbf5a8a0c4,Milton Freewater,Oregon,No,978
+1209fdb38c581fd49fead917330c1878,Colorado Springs,Colorado,No,809
+1262b826efb7f839abb56cfb75551e5e,Minneapolis,Minnesota,No,554
+12ee0207e7f3706602a89138ad9d6fd1,Chico,California,No,959
 132fbfae473e83627c7c6cfdb1586811,Fairfield,Ohio,Yes,450
+137665cbe637a833a3949f9c889f5709,Fremont,Nebraska,No,680
+13ec69832bf596dce7d5b9953727e253,Corona,California,No,928
+13faec492df7385e10c8d75bd4667f38,Alpharetta,Georgia,No,300
 146f776eee7976f925afd40acad560e2,Chicago,Illinois,Yes,606
 15e281f1a54409a5effa3122e2bb546a,Kalamazoo,Michigan,Yes,490
+162cf8a4622f2ebe6c119a508c124122,Oakland,California,No,946
+1662cc17b96ac2d1d6e9ec052dfda2f4,Tullahoma,Tennessee,No,373
+16b3a7299d7aef257a4ad4652ca5ccf3,Los Angeles,California,No,900
+16cc7e6d481e993c9b0ea085ec153eef,Atlanta,Georgia,No,303
 173fa0625c22f2324bfb50c1d323693a,Stevenson Ranch,California,Yes,913
+176903e3fbb2a61e2529425df1c4b471,Milan,Tennessee,No,383
+178f378605bd18c995db205a4f6cc6e5,Ashtabula,Texas,No,440
+1804f0f800e4f5c336603af3417211cd,Sarasota,Florida,Yes,342
+181e5b9ee827753069f6511b913492df,Nellysford,Virginia,Yes,229
 1875645b403c957097bb78bbef804a6a,Jacksonville,North Carolina,Yes,285
+18ded8763c2e8a00f669952dbb2cf440,Waynesville,Georgia,Yes,315
+1a98af9a7865c97bccd68ae909c151cf,Colorado Springs,Colorado,No,809
+1b24af21c9b9968d393bd943bf92eb32,,other,Yes,0
+1bace53acac45ab69a94625a6b3e21cc,New York,New York,No,100
 1bc39132fbb2824c45064db4c15fa622,Glen Ellyn,Illinois,No,601
+1c9890742d44b333621b9ce916e4a0f7,Philadelphia,Pennsylvania,No,191
+1ce559ce327749a7154761f15ee1aeb3,Dallas,Texas,Yes,752
+1d040b65ba90fd20f7e4be9e477351a2,Cincinnati,Ohio,No,452
+1d7fa9f1585e58bf216a4a250ffae84d,Winchester,Arizona,No,226
+1eb7721de5e1c764f1308c1fd531cf4e,Chapel Hill,North Carolina,Yes,275
+1ebdc22511d75e5ba820e1e0b53fcd04,Indianapolis,Indiana,No,462
+1f5c61fcf628ee20f7ecfb11a506f309,Corinth,Texas,No,762
+207c8b0081da9a3806b2bdeb039c6adf,Portola Valley,California,No,940
+20e23d4ac8ed5efac46dd227201950ea,Carmel,Indiana,No,460
+21219280a570dbdf667095d1fc0a462f,,other,No,0
+218cbfc18669b514cbc4951c393cc959,Birmingham,Alabama,No,352
+2220011c7c464ef8668df7acdab6d4b1,Murrieta,California,No,925
+2271312e1e22b2809fc33f6303e67234,Mobile,Alabama,No,366
 22800bcee1812f72f0d7d2cf7a9b3265,Bakersfield,California,Yes,933
 22a3d4f763bf42c190d73e78ce48d188,Whitsett,North Carolina,Yes,273
+22d2b883cea9af4ec95b5d53bbefdbdd,,other,Yes,0
+22d6d8c28c9bab7df5d848e415356757,Tulsa,Oklahoma,Yes,741
+231e394c8ae9f720a89e065f973e91bc,Winston Salem,North Carolina,Yes,271
+2381c266654c55fc74993bdbc5d9d14c,West Orange,New Jersey,No,70
+244d917b4ee1e9915d2e382343e5d331,Palo Alto,California,No,943
+244e16653951419403c66884a3bf01c6,Crescent City,California,Yes,955
+24bfa1cb1b481a9f69ff6c4cab7d774f,South Portland,Maine,No,41
+26376c37eb717d782608385c5bdd2897,Lake City,Minnesota,No,550
+267e47120ee8ec2d08f60f6419b6a204,Woburn,Massachusetts,No,18
+26c5ef8deab733bdb619c0bb88802684,,California,No,0
+276d1ca8a09fd04220b76804fb0272ec,,other,Yes,0
+29e66051a9d26bbafe7bda10c40e040f,Memphis,Tennessee,No,381
+2a04d9f55f51705f49ef71f7b25df26e,,other,No,0
 2b54cc0cdbadbd15b42cbb87dd94d319,Portland,Oregon,No,972
+2bfb8e8149d750330f57ef5de16c1a86,,other,No,0
+2d0c5f56cc43a7a70cf103a011d50121,North Reading,Massachusetts,No,18
+2d773a3e0ed3278512ae3db4445ebc3b,Longmont,Colorado,No,805
+2df00f0ed5911ed95169d6e8955b9b50,Oakland,California,No,946
+2f3e3ffd24767142af3e07a70f5a466e,Clinton,New York,No,133
+3035ee97715f3240bbcc54cc9eb98d84,El Segundo,California,No,902
+3095825181ca103533a18f39df8bf5e5,Katy,Texas,Yes,774
+30afbc9d938903fe8152933947ddffc6,Aiken,South Carolina,No,298
+31a3a31cfb38e52f48690f8c1f83bc37,Cranberry Twp,Pennsylvania,No,160
 31b5aad43cfe59610b15f49e7e3fe9a5,Atlanta,Georgia,No,303
+31e1dd78b70a493c58224b06d74eb900,Peachtree City,Georgia,No,302
+31e5880ebfbe019a6a70458ddd139f21,Arvada,Colorado,No,800
 328df20047bea2eb0689a9508a44d060,Englewood,Colorado,No,801
+32c251d6e2d32a4797cdd11ff365da9a,,other,Yes,0
 32e433a2d9da1f71907efa980e15698b,Houston,Texas,No,770
+335ca138b531b85196e20a9d0a051018,,other,Yes,0
+338438c2fb4464e760aa8f37c4ade8d8,Plymouth Meeting,Pennsylvania,Yes,194
 33c6a65d56810d2094300be5e9faac6d,Fremont,New York,Yes,945
+35223be112ef50a0901956e878385300,Indianapolis,Indiana,No,462
 366a7afe544eb16d925b763a311833a6,Tulsa,Oklahoma,No,741
 36d03591efcc9842472167d392d54a82,Berkeley,California,No,947
+37c3035e8e1c3ca659728ee5556d8dcd,Oklahoma City,Oklahoma,No,731
+38314a5a6c08780fcb01dc084266894f,Huntington Beach,California,No,926
+386bba4cf1049aa132c443fbd574fb4a,South Gate,California,Yes,902
+3941695aecb9c95a1beebc891cea140d,Bellevue,Washington,No,980
 3965f08b022eaa9a1cdd8483009f4263,Clarkesville,Georgia,Yes,305
+39b3464ba55fc35c75c74c65e8d1d2e5,Venus,Texas,No,760
+39b719d3603600faf78c556064a9c7d2,Sonoma,California,No,954
 3b1a9d9465b279dd3538ae7bc6b3960b,Santa Monica,California,No,904
+3be2e203f03fc318500bdbd0cb0c2f07,Weston,Florida,Yes,333
 3cec5cef4bbd41eb109e8d09660216cf,Charlotte,North Carolina,No,282
+3e33d58c07ef3438bd63ed8c59c620b1,Springfield,Missouri,No,658
+3f55f937eb6062ae58d565244ecdb089,Northville,Michigan,No,481
+3f9a3b4872dd3cf620f154450401e3d3,Glendale,California,No,912
 40b33178f9dcf25e74d187c2d1dc05ee,Fair Oaks,California,Yes,956
+40be8440aac0e9597782ac1776c1fdd2,New York,New York,No,100
+413742e831cb6d202228d69c736076ef,Northridge,California,No,913
 41443bfa7593a6cac8b30ea724db8841,New York,New York,No,100
+41542e2e343fb6143235c41b315ef212,Vero Beach,Florida,No,329
+4236c57feb3fefeb64190074d95155e7,Chicago,Illinois,No,606
 425a924eda764493f507f8b427867ecd,Columbia,South Carolina,No,292
+4283f49b873f93f5cd48b7408ba126f0,Philadelphia,Pennsylvania,Yes,191
+428aac3ba68f5d4da52faa03121b9182,Fort Lauderdale,Florida,No,333
 42b1564c94912018e7c4f3d57ae2b597,Saint Amant,Louisiana,No,707
+42fb353e20affa1fd14269a621f51720,Eugene,Oregon,No,974
+431586dd54538f6b884eb7b1d3133cdc,Santa Rosa,California,Yes,954
 4334cc9027269707b0d4fbb9ca1adfbb,Fairview,North Carolina,No,287
 437fa041c38dcc2a4d96915ccb9c8e53,Beaufort,South Carolina,No,299
+439659520db86d2b521d4b650364f4d7,Derry,New Hampshire,No,30
+44a41fead3fec83f1983fd19d9057031,Strasburg,Colorado,No,801
+44de72fd944546568466afb6157f112c,Concord,California,No,945
+460a80ef320c157b77752137838dce38,Willis,Ohio,No,773
+4639a0dc32ef7c763c88ebbf063076b0,Chino Valley,Arizona,No,863
+471a0c8067911ba255b0c7e38d0893c0,Stockton,California,No,952
+490bff2afa3a776fe4feb7bf6638a4ce,Philadelphia,Pennsylvania,No,191
+4952a6fb26f684e81af016043d2dbe96,Pikesville,Maryland,Yes,212
 49d6d813718f41f907f4009186f4bfe4,Atlanta,Georgia,Yes,303
 4adab10544c8cd22e9988ad29d5d1076,Needville,Texas,No,774
+4c9d5c3d2d9ad7342fd61eccd1a087e6,Spokane,Washington,No,992
+4d6212c6c4518190f6c060bf4b9bace9,Rock Hill,South Carolina,No,297
+4e432a02943a0757765dd239bf4cab58,Leominster,Massachusetts,No,14
 4e5c5ec09d68d8812a7fb2a6311e1920,Minneapolis,Minnesota,No,554
+4eea14056cd962bca6a9f3771c4503fe,Raleigh,North Carolina,No,276
+5108ed3d77dab826761b30af67405fa7,Weston,Florida,No,333
+511704d600d805e8f906e14f32a2e375,,New York,No,0
+51170a9195a1c8ee7c2a4aa3599cda8a,Houston,Texas,No,770
+522b2566ca5273341c0352f17675e572,Troy,Michigan,No,480
+523e31c12126485532260c258e21546e,Fairburn,Georgia,No,302
+52d1efb9a4ac16b951818d93c67c6af4,Dickinson,Texas,No,775
+5375d421dcd3e74941ea90e635196162,,Arizona,No,851
+53df55d1c001d862edd51b525c722574,Renton,Washington,Yes,980
+5574b976dbda5dc28fe045c9ace23095,Seattle,Washington,Yes,981
+558a7b72a2e08679be6d15ead111b1d5,Chicago Ridge,Illinois,No,604
+558b8acddcb8c421d8706e672a10c153,Virginia Beach,Virginia,No,234
 56a9bf3bbd6a50b46dc053407c2dd32a,Lakewood,Washington,No,984
+5712e0e6bdd3fc2e420e4a1d94f91017,Houston,Texas,Yes,770
+5717356c2811a6c08f3da350e8c7ad19,,New Jersey,No,0
+577441bc184a2d310740b009bf781ff0,Barton City,Michigan,No,487
+58091eea74dbf4a262df19f2f6874fa7,Columbia,Michigan,No,652
+5892ab5ed36adcf03f54bc59198eafe2,Columbus,Ohio,Yes,432
+58aa6ccf172cde9e96b1bd9838215c0d,Auburn,Alabama,No,368
 58b6e865f31b7458877591cd028f42ef,Springfield,Ohio,Yes,455
+58c62fd8e3682eff757e62756e57cc72,Gilbert,Arizona,No,852
+592fe71f929802d501b7aecfee229362,Sparks,Nevada,Yes,894
+593b57a1265cd060f1e92279b65b3408,Allston,Massachusetts,Yes,21
+594126b0ca5f3d4a456237ed62c8ce31,Washington,District of Columbia,No,200
+59688bd3e9bd7343819fe0508550aa66,Aptos,California,No,950
+59eef8dd3098a234a3780c857ebb7f76,Orange,California,No,928
+5a44c8a6018c4db06dc8fbcab0f6aef6,Henderson,Nevada,No,890
 5a5c1d16cd7e499d23b6dff311938e5f,Seattle,Washington,Yes,981
 5a8a1f6924423abd8d48b5563ff51d9d,Bernardsville,New Jersey,No,79
+5b2d89b115949735fa2a83b726fb8b3d,Bakersfield,California,No,933
+5b919f1ab5cdfa13e5167fe4acb259a4,Lorton,Virginia,No,220
+5bd37d34262f8ded57dc1aa35f61026c,,other,Yes,0
+5c214972fc005d7ffaba1f5d19bf4574,Hanson,other,No,23
 5c285cae1a24a89e9374a7cb6291a770,Delton,Michigan,No,490
+5c2fd5891e6b62869d7f7902b491d34b,Flushing,New York,No,113
+5c7f379a9b1f6ba0086e1f12c8db7989,Lexington,North Carolina,No,272
+5ccc906c122b56d0f912e37c3b27ef19,Raleigh,North Carolina,No,276
+5d287cb788165e19f14525fc3f44ae3b,Rockville Centre,New York,No,115
+5dd4c698460658993aa2e90da55ea375,Tampa,Florida,No,336
+5e67739136b9575aaae57b9975447278,Laguna Beach,Texas,No,926
+5e79ac5538317934ef2e87f43afa0a23,Warrenton,Virginia,No,201
 5f24f7ece308e11c9e31a6b9ad53cf68,Hempstead,New York,Yes,115
+5f9992b17c78b433175b5fa34a85e3c5,Chincoteague Island,Virginia,No,233
+6004ce185b4d9938ab1ae9fba42d178a,Greensburg,Pennsylvania,No,156
+6277647bf6f99b9e3bd962ba72638ecd,Takoma Park,Maryland,No,209
+63301f235a69011d8a60b5de99303d82,Cherry Valley,Illinois,No,610
 6428aad52bad196a2a49c5f11247b0c5,Stone Mountain,Georgia,No,300
 646c27840f2f3447addce962896772c4,Barker,Texas,No,774
+65d0490aefea2a3a25740d70fa59987f,Pineola,North Carolina,No,286
+65f31924c3e4a0dd507ba7d65ad9b560,Greenville,South Carolina,No,296
+66ba3d4a385b1b2cf27a5172e1bc35e8,Kansas City,Kansas,No,661
+66d3244aef71736fa31f9f53284b9c9b,Kirkland,Washington,Yes,980
 66ed3c307c7847fb11d5ec6430f68301,Blackfoot,Idaho,Yes,832
+66f1f7e2643ed0dc2a4439b18338f1f9,Massapequa,New York,No,117
+67b43cf86a0a50ffd9f950843a9185a7,Owings Mills,Maryland,Yes,211
+67bb23f25a57a1203d20a35d9e4f1ea6,Southampton,Massachusetts,No,10
+6817c0c7a6540ac176a47d5e0515a5d0,Watsonville,California,No,950
+69fdd03bfe1e32913cbef793f9b8414c,Clarksville,Tennessee,No,370
+6aa9cb9d5e6d9d5e093dab74c60be307,Midland,Texas,No,797
 6b3c76b4fa4f370f2a7a122b9fcedef7,,Illinois,Yes,601
+6bfd8aaa43c9e816d2bec034bfab2879,Gresham,Oregon,Yes,970
 6e07ed64a170bc3336b9411a75530ac1,Spokane,Washington,No,992
+6e3455d6b64ef27d71af2cc07798871c,Wichita,Kansas,No,672
+6e61bc54dab1c5a36893fb9171e9bf29,Pittsburgh,Pennsylvania,Yes,152
 6e851b0a06894e7a2b8f7e7bb047b872,New Hartford,New York,Yes,134
+6f168025c9040fbf2b7ed6aea3fbd947,Sand Springs,Oklahoma,No,740
+6f9aa832905358bf706f1f44aa0a2f2b,Grand Rapids,Michigan,No,495
+70105469fc06b731a3483b1e5ce4ff63,Fort Worth,Texas,No,761
+702b818725bc4a32343116571375d0b2,Las Vegas,Nevada,No,891
+70cac2dbbfc793b82fceab6ec7d017ad,Charleston,South Carolina,No,294
+70f27b977a7901fa92fc501a479629f4,Salt Lake City,Utah,No,841
+7107561405d73678b4ca28b6a3d9442f,Greencastle,Ohio,No,461
+7175c0de5de258ca4b7442dbd96be6e2,Beach City,Ohio,No,446
+729c2901aaf264ff58feb6d9cfe9b6d6,Durham,North Carolina,No,277
+729d72420dbf4cefa3809f8f66acfbf6,Ocean Springs,Mississippi,Yes,395
+7378b2892355de2a74cfc02093e1c4f4,Redwood City,California,No,940
 74bcb8a4304e7aa3d98acf22e8d2541e,Mechanicsburg,Illinois,No,625
+75b79902beedf0104e5429450fd8c2bc,Peoria,Illinois,Yes,616
+760863c271d64fb149e6ee15ed2eef8c,Port Chester,New York,Yes,105
+765ff03fe672ce88f2dcca747a3c4a7d,Jersey City,New Jersey,No,73
+769cf69f3733db9ed1c014291dd7bbf2,Chicago,Illinois,No,606
+777ae37e2cdb670cb4c3d63e0c6b284f,Ambler,Pennsylvania,No,190
+77ca9cfc01a76d98950fc7effccae24b,,other,Yes,0
 77f9e28769a09c7fca65003bca7c747b,Gloversville,New York,No,120
+798f0823209f285450c438cfbe610105,Tenafly,New Jersey,No,76
+79e0a32f65157a15ff2dd9f3a2f2da00,San Francisco,California,No,941
+7a75ad32b2efdddc3877004c976f242a,,Colorado,No,0
 7a83a6d684f04957a3ac2d23aa979b18,Oakley,California,Yes,945
+7b99b9f747c76997e6f22e51d1ac8697,Sterling,Virginia,No,201
+7bf08857b1fe4f8533abe5c0c8becd41,Medford,Oregon,Yes,975
+7c02cf84a00a422d735c0d6134935cba,Pleasanton,California,No,945
+7ca67285fccbbfd9ececd98b53e66818,Bremerton,Washington,No,983
+7d188fafa89ede23a6b0ee832f2b6b78,Nowata,Oklahoma,No,740
 7dafa7731208eb75102f35ef35c792ef,Sycamore,Illinois,No,601
+7e9dc4c4746829ea40f9d947a277756a,San Jose,California,No,951
+7f53f8010815a973f25e2c56e2b7e5bf,Buffalo,New York,No,142
+7ff2824e27c2fe003b63e4cf50a2ce47,Chicago,Illinois,No,606
+801d0dc12737bc68115ac882016e745c,Springfield,Oregon,No,974
+80ec9c1ea9ae9b1ff4fc65a44f10a016,Culver City,California,No,902
+826b45e0a6eb53ab171b0480d9bf593e,Hilliard,Ohio,No,430
+82706c82f1b3079ccaa5010d0f723a97,Stamford,Connecticut,No,69
+838859790e6d6b9a8cb3aad1113bc987,Swansea,Massachusetts,Yes,27
+84d22b4d059e4db9e1431d6d30a99717,,California,No,0
+850f0e8c7c12fd6c3570c0b8b8809e3b,Harrison,New York,No,105
+864d154afa029ec623a7da064cb258b0,Salyer,California,No,955
 86abcf660788b32b0978e735e1172ace,McKinney,Texas,No,750
 872806ccbd27d68ba87e2be4425b07e0,Saint Paul,Minnesota,No,551
 8734ecb22f67f9a0b2c0a5017af0eb50,,New York,No,0
 87a97137f83fb45700ff1d8ca2019b79,Novato,California,No,949
+87cc20f8b66c19ca8724256f422b394c,Atlanta,Georgia,No,303
+8853b596ce9959ac2e42513d592a1392,Lewes,Delaware,No,199
 88936495a12f59abf6b3a9cbff2c5017,Cowpens,South Carolina,Yes,293
+88e832dc5169cb62db6072f518c86484,Hesston,Kansas,No,670
+89088037f074bb29a6ed4b8a0244ad66,Zionsville,Indiana,No,460
+898ffd41b6b17d64cde2cf0eb712e303,Queens Village,New York,Yes,114
+89c986b508f14ed75364a53fa10d615a,Coupeville,Washington,Yes,982
+8abbe7f32aaebe0da7720a5f2ce323a9,North Las Vegas,Nevada,No,890
+8cdd13dc01bf8e71ffbbe97118da162f,Los Angeles,California,No,900
+8d580a8ba7d31e422155e685079411cf,Duvall,Washington,No,980
 8e5b2ee8357ed857f4aa9ad0b1befea7,Brevard,North Carolina,No,287
 8e5d8bfb8f2463936c5f3faac1d4a5c6,Henderson,Nevada,Yes,890
+8e95742f5ff52d7b9809ab110504f6fd,Yorba Linda,California,No,928
+8ec1ee31d120e6d4e392312468990f71,,California,No,0
+8ee66501ed86effcdd9cf54d9b4531b1,Gibsonville,North Carolina,No,272
 8f173f619f8c7f8159d3b9699ce7f47d,Sunnyvale,California,Yes,940
 90b28dbe016eed3ed459dc0344458a81,,Virginia,No,0
+913328f3000b39376c43710387fb8d0e,Memphis,Tennessee,No,381
+91ce7162d1d48a862dc7ad5561432e19,Norman,Oklahoma,No,730
+92d9ddfda33803f92e4301f5ad9df2db,Flat Rock,South Carolina,No,481
+93606827f3041b0448227837b75c48fa,,other,Yes,0
+93c65afd2d931a8a9baabeac5f712be4,Warrenton,Virginia,Yes,201
+948c8b421411a95bface77b7e6eb49c4,Saint Joseph,Minnesota,No,563
+94f904587d12a7f21607265c09e6f5e3,,other,Yes,0
+95e222e0e534b2440aef01df381f792d,Denver,Colorado,No,802
 9627a46feb70b7761ee87f9c2dcdb327,Spanish Fork,Utah,Yes,846
+9675c57c0d547a45e0e8db02edf40038,Dallas,Texas,No,753
+9684f14869a91d47b02d6c86aa5296a5,Long Beach,California,No,908
+969ca3ddc87ab61d8c45257df157991c,Nashville,Tennessee,No,372
 97f4e26d5983b524f13e5c2025b4c0e1,Newkirk,Oklahoma,No,746
+983fc61644be9db14938aeeca0692c1b,Livingston,New Jersey,Yes,70
+9859f1dc7e5ba8f80dc885107fc07981,Zelienople,Pennsylvania,No,160
 987595d1d63a04863944f5387dc414f7,San Diego,California,No,921
+996a70268de14ced6cbea3ae9ed2e1c3,Fishers,Indiana,Yes,460
 997c1b9f8c53e576f5f4afb28ac433a9,Minneapolis,Minnesota,No,554
+99a85a0e5b75aad8b60d77df9b5661e0,Alpharetta,Georgia,No,300
+99ea292e466a8effcef934de84c8f7d4,Indio,California,No,922
+9a933c9f20a6d77f2e553757fbba5ce3,Stayton,Oregon,No,973
+9add583ce4734054de727f071b1780d1,,Washington,No,983
+9b009bc3e8c41d6b5d17acedc28ea040,San Jose,California,No,951
+9b802f262c2a19cc3878de40a50c76bc,Montclair,New Jersey,No,70
 9bdddb06c6d4c7cfe1c1d20057a08477,De Forest,Wisconsin,No,535
 9bf270062813af00e7f1139900e21ed2,Flint,Michigan,Yes,485
+9bf4849d20e40cf37b66b8e082232a5f,Oakland,California,Yes,946
 9c80bfc72eca9c469c7f90ba9554d177,Pompano Beach,Florida,Yes,330
+9d47cba933aac14821a9a94cdea8071a,Cliffside Park,New Jersey,No,70
+9db7f4374880475f20b13395b3a013de,Greenville,South Carolina,Yes,296
+9f4117d6b07b254185f307a905516659,Somerville,Massachusetts,No,21
+a01ab2760e1ba4f9f2e2b8d45afed3aa,Los Angeles,California,No,900
+a03f287e46d99aa5d3752ad8a17156c3,Valparaiso,Indiana,No,463
+a090da9b8aa04e32da0a1ed9bb00c435,Quinton,Virginia,No,231
+a0f0b452ab74a04ca270208ea87ea991,Saratoga Springs,New York,No,128
+a13e2e639d549cb3cb67e3fd4eed6e62,Reno,Nevada,No,895
 a16d62f3b658894a5a9950b9fbe8b907,Easley,South Carolina,No,296
+a1e66e4e2ce2377bff47d4a21cd644e7,Riverton,Utah,No,840
+a23daa7826fafbe8823c4677bf4c9c3f,Hugo,Minnesota,No,550
+a2674aa1e0135304ec21ca3805a2c5e0,Austin,Texas,No,787
+a3401791860f19a96d5922d2a6976492,San Francisco,California,No,941
+a36a346d7ef249fd41467093d0a8f010,Denver,Colorado,No,802
+a40bbcf75aab36e92878b477ab0a1460,South Dartmouth,Massachusetts,No,27
+a42cc53e110c2e9614e3ff44dc1835c5,Cincinnati,Ohio,No,452
+a4fd2384f0b3a88afc0364f1d1f0d8bb,Layton,Utah,No,840
+a5fbf6c1fd5b72e6117b8bff835012e4,Perry,Georgia,Yes,310
+a5fe306034df45bc8f911bef6effa347,Anderson,South Carolina,No,296
 a6001bfae235e977b0c9ddeffe14c685,Simi Valley,California,No,930
+a620deea0f515270e66d1955c3e45329,,California,No,0
+a6319f0a0b16c78ecaab77b2c08eef1c,Brighton,Illinois,No,620
+a6a70ae0e8b76bbf2f883b77063de728,Monroe,Ohio,No,450
+a6ed114fad369cffd996f45d6db930e4,Davis,California,No,956
+a8591abd11633cefc148d913fa24ac78,Dallas,Texas,No,752
 a860ad3f7556cf8afadaa436a11e0734,Palo Alto,California,No,943
+a8e7dc42f5b1b21d5962cd3bad85720e,,Colorado,No,800
+aa3abb48d4e9dd098a570ba4f6a984b1,,California,No,941
+aaafca22cdfebe7474713c3dc3226d48,Valdosta,Georgia,No,316
 aab5c2f609020654fb4232ae7bb0d995,Seattle,Washington,Yes,981
+ab830d68adeefceba0e4a14e9c19e879,Reno,Nevada,No,895
+abee74dfb1407d2febde4b23749f158c,San Jose,California,No,951
+ac04745e7474eea8e88932723b9d2226,Camas,California,No,986
+ac812389d4e482999e1ff389206211b1,Concord,North Carolina,No,280
+acab0a7c832ec26f4b1e473674952cbb,Allentown,Pennsylvania,No,181
+acbeb34f5f2eaa9fe35b954172c524fc,Fowler,other,Yes,936
 ad17d67433e546376dae50b002a73983,Rapid City,South Dakota,Yes,577
+ad1d44d4d6973fc31846a1c57ae2c663,Brentwood,California,No,945
+ad7292493d6db14c0f95236cec1e366c,El Paso,Texas,No,799
 adc7893319a692774444b13e35357657,Napa,California,No,945
+ade0a38d42bee8f325f7f7df58faab3d,Watertown,South Dakota,No,572
+af10115f6423b1375413e5f4a79c2378,South San Francisco,California,No,940
+af7e6de31c0aeb553ad53f3aee3d9602,McKinney,Texas,No,750
+b07c3ffabf7afc580b5d5209c61fd653,,Florida,No,335
+b194fd9ae5875e0c996a0a76e258d86f,Escondido,California,No,920
+b1aa9c497e49348803b2f1b42dd94963,Redmond,Washington,No,980
+b322ac118a3a02710e869db223fd1169,Corona,California,No,928
+b36ec0f933593297670379291f6fdd56,Houston,other,Yes,770
+b3fffaa2f5a31e2559fe04b1644b7eec,Chicago,Illinois,No,606
+b466b8ca39595d35e1ae2b882db12aaf,Washington,District of Columbia,No,200
+b4bc8eb4fc5836e64efa3bf148bd3cfa,Munising,Michigan,No,498
+b59f8d459f5b8dcf756a03653b07b8b1,Los Angeles,California,No,900
+b5b898390bc1c571888a61b933fde9bf,Ada,Michigan,No,493
+b5effd720301b90f02b2502d07ea2571,North Dartmouth,Massachusetts,Yes,27
+b62337fb24087cfdf3082b59a0726f14,Willits,California,No,954
+b708d309ae4a14107a9eede9cca2c00f,North Haven,Connecticut,Yes,64
+b713fa25054286805a947a2586381e2c,Arcadia,California,No,910
+b71e86099da00bfa6adf64b70206c9ce,Saint Paul,Minnesota,No,551
+b793942036bd1d89e4d147348c24510c,Sylvania,Ohio,No,435
+b7986559d63e5219de24c59270eae84f,Winston Salem,North Carolina,Yes,271
+b7d21b5e2e82256abdf3850538d8dcb7,Grand Rapids,Michigan,No,495
+b983b8d2f0beb26b1e2d142a95781210,Howell,Michigan,No,488
 bb596ff6a454b1cd3bc7ad578604d6f0,North Hollywood,California,No,916
+bb66b5a9be254edb817c4ba38d52d21b,Hightstown,New Jersey,Yes,85
+bbed9755c0782732134dd0b2697adc91,Horseheads,New York,No,148
+bc9e40d7c31aaf527e7e863e2c5f15e9,Elkhart,Indiana,Yes,465
 bcf354799e4c6922fcd628f2eeb1335e,Saint Louis,Missouri,Yes,631
+bdb86f8a41c506c30e17ab0d4ae2d7c7,Sarasota,Florida,No,342
+beab4438cf8ad583bbb3f8ee0128b264,Okmulgee,Oklahoma,No,744
+bf731b17acdfa8a13e315026f0ced918,Bellingham,Washington,No,982
+c15fa5b928536d97cd8886ce2ca73214,San Ramon,California,No,945
+c1b00f241768476890b776d006cb686f,,California,No,925
 c26d38e4bab8a4edee738030c01ed421,Indianapolis,Indiana,No,462
 c2995ea035da8e26daad32b0322f9097,Bloomfield,Connecticut,No,60
+c2b8f1fcfa1c50e6430f53737213626b,Enumclaw,Washington,No,980
 c3188d5ec43de8fc4e7792e2ecc13d18,Fort Walton Beach,Florida,No,325
+c389fd258f3622cfd8d20f2e5e8799c5,Redondo Beach,California,No,902
+c434e13bfc13e69b4723fe777d316767,Raleigh,North Carolina,No,276
+c4c0a09e2388ceb6ef80e6a98673b291,El Dorado Hills,California,Yes,957
+c4cb3b71bb8342593e3951ad5e02b017,Nashua,New Hampshire,No,30
+c4d0a207bcd7016d1027de98dcf59ad6,Lombard,Illinois,No,601
+c51fd81550f3b00198175e31140cf9a1,New Britain,Connecticut,No,60
+c54e2639269b94eb59d38971e864346b,Pensacola,Florida,No,325
+c599faec24604f6d7bf19f95a3281c7f,San Francisco,California,No,941
+c8365ed20f6a740168653fc0c078839c,Wilmington,North Carolina,No,284
 c8b3f99581f468d0e8635cca0870a675,Ocean Springs,Mississippi,Yes,395
+c9b81c5047f22602d247ae43ce4c2c88,Highland,Illinois,No,622
+ca744282790a6c2cf880319848cf3185,Austin,Texas,No,787
 cc9a1fe2b685bbfdd8a3ca6aba32ccbb,Westville,New Jersey,Yes,80
+ccaf33a4acc2b7768cebdac46e5cefdd,Maryville,Tennessee,No,378
+cd217543a5f852ee07fc2ba72b26cb47,Shawnee Mission,Kansas,Yes,662
+cd3340b60cea43e7856939b48d8d5423,Torrance,California,No,905
+ce0681c641c4a11546aac63ea858330c,Bowling Green,Kentucky,No,421
+ce4fe34d8a63bab6c33a77f39dc6441c,San Francisco,California,Yes,941
+ced0cd18f619ab48cd20b12331582007,Kissimmee,Florida,Yes,347
+ced5aad94a9f137c56f8d27c167385f8,,other,Yes,0
+ceff0c8a95d7c8b6557218774deb8b41,,other,No,0
+cfc3cc1c750b6f5259b716865a5cae1c,Providence,Rhode Island,Yes,29
+d3703a971da145bac749c96f1cfd09ea,Falls Church,Virginia,No,220
+d3802dff204710476564716a07d44184,Humble,Texas,No,773
+d3d85db0ac48e1ae36e0c6ba526d47d5,,other,Yes,0
+d43e968c758a3fca339d320bb3bef7ad,New York,New York,No,100
+d4633bfa34c4b26c60a0b2c34f6be45c,Buena Park,California,No,906
+d4b870be6a33dcf34e88bfac14f6f535,New York,New York,Yes,100
+d54a9181fb67b4b2809d748a65721c0b,Lubbock,Texas,No,794
+d5d4a35708b306fa1fe0e27aa5fd39fa,Elk Grove,California,No,956
 d686f2222a682d784bfdc2023a5c371e,Oceanside,New York,No,115
+d6aac099af092f4541897b6544f86372,Chandler,Arizona,No,852
+d70dc468f990893a31dba7fce5a5c3ab,Seattle,Washington,Yes,981
+d90744894947703e90980b3dc690060f,Northbrook,Illinois,Yes,600
+d94d7a27210872384306894a55b657da,Burnsville,Minnesota,No,553
+d9a0229de04f5ebe09aa6e137b910f94,Pismo Beach,California,No,934
+d9c42085f8d8bc9ea89050fbdcc5a09a,Toledo,Ohio,Yes,436
 db065c5c7ad3259bfbe483893e373470,Nokomis,Florida,Yes,342
+db6b2db39745a52bc773282696ef8240,Palmdale,California,No,935
+db91a3bd44e9ba957d066d921842afd7,Belmont,North Carolina,No,280
+dc6f05549f012642f5cf984971959d9f,Indian Trail,North Carolina,No,280
+ddf3777f2b111519e2552a4a2985d222,Kansas City,Missouri,No,641
 de00f6e83f643226454132b187e1ddf1,Seattle,Washington,No,981
+de57535207fee49150396ec31541866a,Charlottesville,Virginia,No,229
+de9db701a5647d7849897c87f1d4fa56,Des Moines,Iowa,No,503
+df24234e8e546d6a1a78c0401fe74ab9,Wheaton,Minnesota,No,562
 df7b3837b102d6590b746f5df2c5d670,Brooklyn,New York,No,112
+e09362b102e783991538b287dfdfe8b1,Oreana,Illinois,Yes,625
+e09685ace77e2d33b019149db33b4f4d,Weston,Connecticut,No,68
 e0ddbf6b5d98ecdd5b744894f04e5d9f,Pelham,New York,No,108
+e14d8f083ebf253eeaf4a1c9691dd193,Kingston,Tennessee,No,377
+e24b439b59cd757b0489c2134e06ca42,Calexico,California,No,922
 e28afed5091ae1cc9aef0e429f019645,Seattle,Washington,No,981
+e2a437ca23a3f5cd1f01ea1ed56760dd,Flower Mound,Texas,No,750
+e3e6c5eeebf3a7fc4547fdd9578cbb51,Weston,Florida,No,333
 e3fb74b41f245b3d38b0b547ec61f8ea,Chantilly,Virginia,Yes,201
+e4d3835fc3663898d18c7b98ba030496,Ocoee,Florida,No,347
+e52b82570fb5a9541923e62a448d8cab,Santa Rosa,California,No,954
+e54602a2243234d495edfa8708dba748,Enola,Pennsylvania,No,170
+e5cf3e8b57e07a12a7f94500e153c337,Gainesville,Virginia,No,201
+e70b050393f86a1e765a6905e5a123c8,Coram,New York,No,117
+e76c484d34adf1403806f31dc7802c88,Middletown,Connecticut,No,64
+e7cc5c9af6e0925a9ad51f48137d0485,Chicago,Illinois,No,606
+e8238fc85ed914b8ddb96c0803c96b15,Franklin Lakes,New Jersey,No,74
+e842656d684edcc3078d8724d27eb8bf,Livonia,Michigan,No,481
+e86213077d0df1e65a6d25358f460010,,California,No,0
+e88b0931063cfce0ba8a1b0884276bfc,Neptune Beach,Florida,No,322
+e8d7b6fdfaa509453bfde3a72916371f,San Antonio,Texas,No,782
+e8e7371c7f417a7d00cc177ed44262ef,Old Westbury,New York,No,115
+e9045ad04c91a6844cc745a74e2bf03f,Mount Dora,Florida,Yes,327
 e91c3ed4e5078c6f36de7f03e73442a4,Evanston,Illinois,No,602
+ea2e764bdc999792ef224f99e01215b7,Chillicothe,Ohio,No,456
+ea69b376319776263fb6e8881c6560b4,Florissant,Missouri,Yes,630
+eae10adbcf9278414f55be237c644c0b,Charlevoix,Michigan,No,497
 eb568f311f7ddccac2824e3b7d528fc0,Hacienda Heights,California,Yes,917
+ebc2d5c62cd1c263feb2c30d2d9f91ce,Parkton,North Carolina,No,283
 ebcb0301a58460639ebb375b4e5e4469,,California,No,0
+ecc3b6d493eee5473bdd1f3faede3fa5,Long Beach,California,Yes,908
+eceaaac002e2a84502df18ea366c124b,Pleasant Hill,California,No,945
+ed23144848ee938b58ac30e0da63c569,New York,New York,Yes,100
 ed23d8b99502bce04587cfc571265b9f,Wykagyl,New York,No,108
+ed3315eed9a184c2ba1835bc37733bcb,Lumber Bridge,North Carolina,No,283
+ee557372e030ade05296ecc0d4da1dc2,Los Angeles,California,No,900
+ee850cae08511348d43dfda57784833f,Eau Claire,Wisconsin,No,547
+eee3e93d551ee6b39b2743ae4cee15a9,Scottville,Michigan,No,494
+ef860ba7d1992a2cafcfcdfb7a1637ed,Simi Valley,California,No,930
+f042f93036969db807a32e391d293091,San Francisco,California,No,941
+f05551e8fdd2e264ccb264db8957e5c6,South Elgin,Illinois,No,601
+f08b4807b3115fd444ec53a4296d81cb,Frankfort,Illinois,No,604
+f0d20069315d1b05dbf6fe94fb15d7f6,,Florida,No,0
 f1091cfea312d54a1df2ccc13b91f8b4,North Charleston,South Carolina,No,294
+f1aaa1818ead39bc6380e1bf10fd0e21,Elma,New York,No,140
+f1d2d302eb0a3eff6c24733634a45717,Sunnyvale,California,No,940
+f235538c3ce9c90b31c7c534c3babd7a,Conyers,Georgia,Yes,300
+f2fa59f234fcf85b34c1e09eddc4e48c,Barrington,Illinois,No,600
+f390f0e1f7dbc0d1fe836a98a4ad2116,,Illinois,No,606
+f3e7bc709965326cf24332299334a45a,Minneapolis,Minnesota,No,554
+f4fdb84330eb1d250f47f30b2774d061,Jersey City,New Jersey,Yes,73
+f5c45f2955ef4b8e1394fb8faa77cbde,New York,New York,No,100
+f5cc814332a4338796a361d312f3170e,Stamford,Connecticut,Yes,69
+f608b89bec527231b697ae0b1aa62d41,West Palm Beach,Florida,No,334
+f698399a6bb95633081df9066420f73b,New York,New York,No,100
+f70da375ba6182277c6ab5614121c73e,Greensboro,North Carolina,No,274
+f716b81047c6247eda19a123cb530c36,Vineland,New Jersey,Yes,83
+f7f52e0fc640dadd0d86d323f227590a,Southington,Connecticut,No,64
+f85f803aa0c10b9dfdc0991d0469ea35,Midland,Texas,No,797
+f87d92cdf41233607b7c2c2bbb1b8d94,West Hills,California,No,913
+f9612e58b449a6fa7fcd55db3b9bf4a3,Fraser,Michigan,No,480
 f9ce7a1e3067caa6d2f35db242038382,Lake Katrine,New York,No,124
+f9feb1e4536f5d41b31b1ddef1ecbdea,Jeanerette,Louisiana,No,705
+fa7e8a49ed53aea5c04a46319e74745c,Fort Atkinson,Wisconsin,Yes,535
+fa94c9cb4df0415bceca04ae0b794c07,Saint Paul,Minnesota,No,551
+faefb1cda0cc7de1720620c5daefd871,Chicago,Illinois,No,606
 fb245dffd51d902769bf26b7802ebfdf,Glendale,Arizona,No,853
+fc0adfa8f39939e2c980db6318911275,Albuquerque,New Mexico,No,871
+fcf099e38b77fd54edab3ea43c7b7fa2,Detroit,Michigan,Yes,482
+fe741813ebd8f839e134506a5c948408,Powell,Ohio,No,430
